@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mei xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+	<meiHead xml:id="m-2">
+		<fileDesc>
+			<titleStmt>
+				<title>En attendant esperance</title>
+				<title type="subtitle">Ballade</title>
+				<editor>Kévin Roger</editor>
+        <composer>Jacob Senleches</composer>
+				<funder>
+					<corpName>MUSICA2, consortium HN</corpName>
+				</funder>
+				 <respStmt>
+					<persName role="encoder">Kévin Roger</persName>
+				</respStmt>
+			</titleStmt>
+		</fileDesc>
+	</meiHead>
+	<music xml:id="m-25">
+		<body xml:id="m-26">
+			<mdiv xml:id="m-27">
+				<score xml:id="m-28">
+					<scoreDef xml:id="m-29" midi.bpm="700">
+						<staffGrp xml:id="m-40" n="1">
+							<staffDef xml:id="cantus" clef.line="1" clef.shape="C" key.mode="major" key.sig="0" lines="5" n="1" modusmaior="2" modusminor="3" tempus="2" prolatio="3" notationtype="mensural.black">
+									<label>Cantus</label>
+							</staffDef>
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-41">
+						<staff xml:id="m-44" n="1">
+							<layer xml:id="m-45" n="1">
+								<note xml:id="m-46" dur="brevis" oct="4" pname="a">
+									<verse n="1">
+										<syl>En</syl>
+									</verse>
+									<verse n="2">
+										<syl>En</syl>
+									</verse>
+								</note>
+								<barLine form="invis"/>
+								<note xml:id="m-47" dur="minima" oct="4" pname="f" num="1" numbase="1" colored="red"/>
+								<note xml:id="m-48" dur="minima" oct="4" pname="g" num="1" numbase="1" colored="red"/>
+								<note xml:id="m-49" dur="semibrevis" oct="4" pname="a" colored="red" dur.quality="imperfecta"/>
+								<note xml:id="m-50" dur="minima" oct="4" pname="g"/>
+								<note xml:id="m-51" dur="minima" oct="4" pname="f" dur.quality="altera" num="1" numbase="2"/>
+								<barLine form="invis"/>
+								<note xml:id="m-52" dur="semibrevis" oct="4" pname="e" dur.quality="imperfecta" colored="red"/>
+								<note xml:id="m-53" dur="caudata 1" oct="4" pname="d" num="5" numbase="1" colored="hollowed" stem.dir="up"/>
+								<note xml:id="m-56" dur="caudata 1" oct="4" pname="e" num="5" numbase="1" colored="hollowed" stem.dir="up"/>
+								<note xml:id="m-59" dur="caudata 1" oct="4" pname="f" num="5" numbase="1" colored="hollowed" stem.dir="up"/>
+								<note xml:id="m-62" dur="caudata 2" oct="4" pname="d" num="5" numbase="2" stem.dir="down" colored="red and hollowed"/>
+								<barLine form="invis"/>
+								<rest xml:id="m-65" dur="minima"/>
+								<ligature xml:id="m-66" form="recta">
+									<note xml:id="m-67" dur="semibrevis" oct="4" pname="c" dur.quality="imperfecta" colored="red">
+										<verse n="1">
+											<syl con="d" wordpos="i">at</syl>
+										</verse>
+										<verse n="2">
+											<syl con="d" wordpos="i">at</syl>
+										</verse>
+									</note>
+									<note xml:id="m-68" dur="semibrevis" oct="4" pname="d" dur.quality="imperfecta" colored="red"/>
+								</ligature>
+								<ligature xml:id="m-69" form="obliqua">
+									<note xml:id="m-70" dur="semibrevis" oct="4" pname="e">
+										<verse n="1">
+											<syl con="d" wordpos="m">ten</syl>
+										</verse>
+										<verse n="2">
+											<syl con="d" wordpos="m">ten</syl>
+										</verse>
+									</note>
+									<barLine form="invis"/>
+									<note xml:id="m-71" dur="semibrevis" oct="4" pname="d" dur.quality="imperfecta"/>
+								</ligature>
+								<note xml:id="m-72" dur="minima" oct="4" pname="e"/>
+								<note xml:id="m-73" dur="minima" oct="4" pname="c" num="1" numbase="1" colored="red"/>
+								<barLine form="invis"/>
+								<note xml:id="m-800" dur="semibrevis" oct="4" pname="d">
+									<verse n="1">
+										<syl con="d" wordpos="t">dant,</syl>
+									</verse>
+									<verse n="2">
+										<syl con="d" wordpos="t">dant</syl>
+									</verse>
+								</note>
+								<rest xml:id="m-801" dur="semibrevis"/>
+								<barLine form="invis"/>
+								<note xml:id="m-74" dur="semibrevis" oct="5" pname="d" colored="red" dur.quality="imperfecta">
+									<verse n="1">
+										<syl con="d" wordpos="i">Es</syl>
+									</verse>
+									<verse n="2">
+										<syl>se</syl>
+									</verse>
+								</note>
+								<note xml:id="m-75" dur="semibrevis" oct="5" pname="d" colored="red" dur.quality="imperfecta">
+									<verse n="1">
+										<syl con="d" wordpos="m">pe</syl>
+									</verse>
+									<verse n="2">
+										<syl con="d" wordpos="i">de</syl>
+									</verse>
+								</note>
+								<note xml:id="m-76" dur="minima" oct="5" pname="c" colored="red" num="1" numbase="1" stem.dir="up">
+									<verse n="1">
+										<syl con="d" wordpos="m">ran</syl>
+									</verse>
+									<verse n="2">
+										<syl con="d" wordpos="t">duit</syl>
+									</verse>
+								</note>
+								<note xml:id="m-77" dur="minima" oct="4" pname="b" colored="red" num="1" numbase="1" stem.dir="up"/>
+								<barLine form="invis"/>
+								<note xml:id="m-78" dur="semibrevis" oct="4" pname="a" colored="red" dur.quality="imperfecta">
+									<verse n="1">
+										<syl con="d" wordpos="t">ce</syl>
+									</verse>
+									<verse n="2">
+										<syl>et</syl>
+									</verse>
+								</note>
+								<note xml:id="m-79" dur="semibrevis" oct="4" pname="a" colored="red" dur.quality="imperfecta">
+									<verse n="1">
+										<syl con="d" wordpos="i">con</syl>
+									</verse>
+									<verse n="2">
+										<syl con="d" wordpos="i">dé</syl>
+									</verse>
+								</note>
+								<note xml:id="m-80" dur="minima" oct="4" pname="g" stem.dir="up"/>
+								<note xml:id="m-81" dur="semibrevis" oct="4" pname="f" colored="red" dur.quality="imperfecta">
+									<verse n="1">
+										<syl con="d" wordpos="m">for</syl>
+									</verse>
+									<verse n="2">
+										<syl con="d" wordpos="m">por</syl>
+									</verse>
+								</note>
+								<barLine form="invis"/>
+								<note xml:id="m-82" dur="brevis" oct="4" pname="e" num="6" numbase="5">
+									<verse n="1">
+										<syl con="d" wordpos="t">te</syl>
+									</verse>
+									<verse n="2">
+										<syl con="d" wordpos="t">te,</syl>
+									</verse>
+								</note>
+								<barLine form="invis"/>
+								<note xml:id="m-83" dur="minima" oct="4" pname="d" colored="red and hollowed" num="4" numbase="3">
+									<verse n="1">
+										<syl con="d" wordpos="i">l'hou</syl>
+									</verse>
+									<verse n="2">
+										<syl>en</syl>
+									</verse>
+								</note>
+								<note xml:id="m-84" dur="minima" oct="4" pname="e" colored="red and hollowed" num="4" numbase="3"/>
+								<ligature xml:id="m-85" form="recta">
+									<note xml:id="m-86" dur="semibrevis" oct="4" pname="f"/>
+									<note xml:id="m-87" dur="semibrevis" oct="4" pname="g"/>
+								</ligature>
+								<barLine form="invis"/>
+								<note xml:id="m-88" dur="semibrevis" oct="4" pname="a">
+									<verse n="1">
+										<syl con="d" wordpos="t">me</syl>
+									</verse>
+									<verse n="2">
+										<syl con="d" wordpos="i">at</syl>
+									</verse>
+								</note>
+								<note xml:id="m-89" dur="minima" oct="4" pname="e" colored="red and hollowed" num="4" numbase="3"/>
+								<note xml:id="m-90" dur="minima" oct="4" pname="f" accid="s" colored="red and hollowed" num="4" numbase="3"/>
+								<barLine form="invis"/>
+								<note xml:id="m-91" dur="minima" oct="4" pname="g" colored="red and hollowed" num="4" numbase="3">
+									<verse n="1">
+										<syl>qui</syl>
+									</verse>
+									<verse n="2">
+										<syl con="d" wordpos="m">ten</syl>
+									</verse>
+								</note>
+								<note xml:id="m-92" dur="minima" oct="4" pname="a" colored="red and hollowed" stem.dir="up" num="4" numbase="3"/>
+								<note xml:id="m-93" dur="semibrevis" oct="4" pname="f" colored="red and hollowed" num="2" numbase="1">
+									<verse n="1">
+										<syl>vuet</syl>
+									</verse>
+									<verse n="2">
+										<syl con="d" wordpos="t">dant</syl>
+									</verse>
+								</note>
+								<note xml:id="m-94" dur="semibrevis" oct="4" pname="g"/>
+								<barLine form="invis"/>
+								<rest xml:id="m-95" dur="semibrevis"/>
+				            <note xml:id="m-96" dur="minima" oct="4" pname="a" stem.dir="up">
+									<verse n="1">
+										<syl con="d" wordpos="i">a</syl>
+									</verse>
+									<verse n="2">
+										<syl>li</syl>
+									</verse>
+								</note>
+								<note xml:id="m-97" dur="minima" dur.quality="altera" oct="4" pname="b" stem.dir="up"/>
+								<barLine form="invis"/>
+								<note xml:id="m-98" dur="semibrevis" dur.quality="imperfecta" oct="5" pname="c" accid="s"/>
+								<note xml:id="m-99" dur="minima" oct="4" pname="a" stem.dir="up"/>
+								<note xml:id="m-100" dur="caudata 1" oct="5" pname="d" num="5" numbase="1" colored="hollowed" stem.dir="up"/>
+								<note xml:id="m-103" dur="caudata 1" oct="5" pname="c" num="5" numbase="1" colored="hollowed" stem.dir="up"/>
+								<note xml:id="m-106" dur="caudata 1" oct="4" pname="b" num="5" numbase="1" colored="hollowed" stem.dir="up"/>
+								<note xml:id="m-109" dur="caudata 2" oct="4" pname="a" num="5" numbase="2" stem.dir="down" colored="red and hollowed"/>
+								<barLine form="invis"/>
+								<note xml:id="m-112" dur="minima" oct="4" pname="a" colored="red and hollowed" num="4" numbase="3" stem.dir="up"/>
+								<note xml:id="m-113" dur="minima" oct="4" pname="g" colored="red and hollowed" num="4" numbase="3" stem.dir="up"/>
+								<note xml:id="m-114" dur="caudata 2" oct="4" pname="g" num="5" numbase="2" stem.dir="down" colored="red and hollowed"/>
+								<note xml:id="m-117" dur="caudata 2" oct="4" pname="a" num="6" numbase="1" stem.dir="down" colored="red and hollowed"/>
+								<note xml:id="m-120" dur="caudata 2" oct="4" pname="f" num="6" numbase="1" stem.dir="down" colored="red and hollowed"/>
+								<note xml:id="m-123" dur="minima" oct="4" pname="b" stem.dir="up"/>
+								<note xml:id="m-124" dur="semibrevis" oct="4" pname="a" dur.quality="imperfecta"/>
+								<barLine form="invis"/>
+								<note xml:id="m-125" dur="caudata 2" oct="4" pname="e" num="6" numbase="1" stem.dir="down" colored="red and hollowed"/>
+								<note xml:id="m-128" dur="caudata 2" oct="4" pname="f" num="6" numbase="1" stem.dir="down" colored="red and hollowed"/>
+								<note xml:id="m-131" dur="caudata 2" oct="4" pname="g" num="6" numbase="1" stem.dir="down" colored="red and hollowed"/>
+								<note xml:id="m-134" dur="caudata 2" oct="4" pname="a" num="6" numbase="1" stem.dir="down" colored="red and hollowed"/>
+								<note xml:id="m-137" dur="caudata 2" oct="4" pname="f" num="6" numbase="1" stem.dir="down" colored="red and hollowed"/>
+								<note xml:id="m-140" dur="caudata 2" oct="4" pname="g" num="6" numbase="1" stem.dir="down" colored="red and hollowed"/>
+								<note xml:id="m-143" dur="minima" oct="4" pname="e"/>
+								<note xml:id="m-144" dur="minima" oct="4" pname="f"/>
+								<note xml:id="m-145" dur="minima" oct="4" pname="d"/>
+								<barLine form="invis"/>
+								<rest xml:id="m-146" dur="minima"/>
+								<ligature xml:id="m-147" form="recta">
+									<note xml:id="m-148" dur="semibrevis" oct="4" pname="c">
+									<verse n="2">
+										<syl con="d" wordpos="i">prou</syl>
+									</verse>
+									</note>
+									<note xml:id="m-149" dur="semibrevis" oct="4" pname="d"/>
+								</ligature>
+								<barLine form="invis"/>
+								<note xml:id="m-150" dur="semibrevis" oct="4" pname="e">
+									<verse n="1">
+										<syl con="d" word.pos="t">voir</syl>
+									</verse>
+									<verse n="2">
+										<syl con="d" word.pos="t">met</syl>
+									</verse>
+								</note>
+								<rest xml:id="m-151" dur="minima"/>
+								<note xml:id="m-152" dur="minima" oct="4"	pname="b" stem.dir="up">
+								<verse n="1">
+									<syl con="d" wordpos="i">per</syl>
+								</verse>
+								<verse n="2">
+									<syl con="d" wordpos="i">guer</syl>
+								</verse>
+								</note>
+								<barLine form="invis"/>
+								<note xml:id="m-153" dur="semibrevis" oct="5" pname="d" colored="red" dur.quality="imperfecta">
+								<verse n="1">
+									<syl con="d" wordpos="m">fec</syl>
+								</verse>
+								<verse n="2">
+									<syl con="d" wordpos="m">re</syl>
+								</verse>
+								</note>
+								<note xml:id="m-154" dur="minima" oct="4"	pname="b" stem.dir="up" colored="red"/>
+								<ligature xml:id="m-155" form="obliqua">
+									<note xml:id="m-156" dur="semibrevis" oct="5" pname="c" colored="red" dur.quality="imperfecta"/>
+									<note xml:id="m-157" dur="semibrevis" oct="4" pname="a" colored="red" dur.quality="imperfecta"/>
+								</ligature>
+								<barLine form="invis"/>
+								<ligature xml:id="m-158" form="obliqua">
+									<note xml:id="m-159" dur="semibrevis" oct="4" pname="b" colored="red" dur.quality="imperfecta"/>
+									<note xml:id="m-160" dur="semibrevis" oct="4" pname="g" colored="red" dur.quality="imperfecta"/>
+								</ligature>
+								<note xml:id="m-161" dur="minima" oct="4"	pname="f" stem.dir="up" colored="red"/>
+								<barLine form="invis"/>
+								<note xml:id="m-162" dur="semibrevis" oct="4" pname="a" dur.quality="imperfecta"/>
+								<rest xml:id="m-163" dur="minima"/>
+								<rest xml:id="m-164" dur="minima" colored="red"/>
+								<note xml:id="m-165" dur="minima" oct="4" pname="a" stem.dir="up"/>
+								<note xml:id="m-166" dur="minima" oct="4" pname="g" stem.dir="up"/>
+								<barLine form="invis"/>
+								<ligature xml:id="m-167" form="recta">
+									<note xml:id="m-168" dur="semibrevis" oct="4" pname="e" dur.quality="imperfecta" colored="red"/>
+									<note xml:id="m-169" dur="semibrevis" oct="4" pname="f" dur.quality="imperfecta" colored="red"/>
+								</ligature>
+								<ligature xml:id="m-170" form="recta">
+									<note xml:id="m-171" dur="semibrevis" oct="4" pname="d" dur.quality="imperfecta" colored="red"/>
+									<barLine form="invis"/>
+									<note xml:id="m-172" dur="semibrevis" oct="4" pname="e" dur.quality="imperfecta" colored="red"/>
+								</ligature>
+								<note xml:id="m-173" dur="semibrevis" oct="4" pname="c" accid="s" dur.quality="imperfecta" colored="red"/>
+								<note xml:id="m-174" dur="minima" oct="4" pname="d" colored="red"/>
+								<note xml:id="m-175" dur="brevis" oct="4" pname="e" colored="red" dur.quality="imperfecta"/>
+								<barLine form="invis"/>
+								<note xml:id="m-176" dur="minima" oct="4" pname="d">
+								<verse n="1">
+									<syl con="d" wordpos="m">ti</syl>
+								</verse>
+								</note>
+								<note xml:id="m-803" dur="semibrevis" oct="4" pname="f" coloured="red"/>
+								<barLine form="invis"/>
+								<note xml:id="m-177" dur="brevis" oct="4" pname="e">
+									<verse n="1">
+										<syl con="d" wordpos="t">on;</syl>
+									</verse>
+								</note>
+								<barLine form="rptboth"/>
+								<note xml:id="m-177" dur="brevis" oct="4" pname="e">
+									<verse n="2">
+										<syl con="d" wordpos="t">don.</syl>
+									</verse>
+								</note>
+								<barLine form="invis"/>
+								<note xml:id="m-178" dur="minima" oct="4" pname="f" colored="red"/>
+								<note xml:id="m-179" dur="minima" oct="4" pname="g" colored="red"/>
+								<note xml:id="m-180" dur="semibrevis" oct="4" pname="a" colored="red" dur.quality="imperfecta"/>
+								<note xml:id="m-181" dur="minima" oct="4" pname="g" colored="red"/>
+								<note xml:id="m-181" dur="minima" oct="4" pname="e" colored="red"/>
+								<barLine form="invis"/>
+								<note xml:id="m-182" dur="caudata 2" oct="4" pname="f" num="6" numbase="1" stem.dir="down" colored="red and hollowed"/>
+								<note xml:id="m-185" dur="caudata 2" oct="4" pname="g" num="6" numbase="1" stem.dir="down" colored="red and hollowed"/>
+								<note xml:id="m-188" dur="caudata 2" oct="4" pname="a" num="6" numbase="1" stem.dir="down" colored="red and hollowed"/>
+								<note xml:id="m-191" dur="caudata 2" oct="4" pname="g" num="6" numbase="1" stem.dir="down" colored="red and hollowed"/>
+								<note xml:id="m-194" dur="caudata 2" oct="4" pname="f" num="6" numbase="1" stem.dir="down" colored="red and hollowed"/>
+								<note xml:id="m-197" dur="caudata 2" oct="4" pname="g" num="6" numbase="1" stem.dir="down" colored="red and hollowed"/>
+								<ligature xml:id="m-200" form="obliqua">
+									<note xml:id="m-201" dur="semibrevis" oct="4" pname="e" colored="red and hollowed" num="2" numbase="1"/>
+									<note xml:id="m-202" dur="semibrevis" oct="4" pname="c" colored="red and hollowed"  num="2" numbase="1"/>
+								</ligature>
+								<barLine form="invis"/>
+								<rest xml:id="m-203" dur="minima" coloured="red"/>
+								<ligature xml:id="m-200" form="recta">
+								  	<note xml:id="m-201" dur="semibrevis" oct="4" pname="c" colored="red" dur.quality="imperfecta"/>
+								  	<note xml:id="m-202" dur="semibrevis" oct="4" pname="e" colored="red" dur.quality="imperfecta"/>
+							  	</ligature>
+							  	<note xml:id="m-203" dur="minima"	oct="4" pname="f" colored="red"/>
+								<barLine form="invis"/>
+							  	<note xml:id="m-204" dur="longa" oct="4" pname="g"/>
+								<barLine form="dbl"/>
+							</layer>
+						</staff>
+				 	</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>
