@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="2970px" overflow="visible" version="1.1" width="2100px" xmlns="http://www.w3.org/2000/svg" xmlns:mei="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>Engraved by Verovio 4.0.1-a99660b</desc>
+<defs>
+<symbol id="E044-ggzmey" overflow="inherit" viewBox="0 0 1000 1000">
+<path d="M0 0c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50z" transform="scale(1,-1)"/>
+</symbol>
+<symbol id="E9E3-ggzmey" overflow="inherit" viewBox="0 0 1000 1000">
+<path d="M0 -112c0 4 0 10 3 13l83 99l-83 100c-2 3 -3 10 -3 14c0 6 3 10 8 10c2 0 5 0 6 -1l86 -105l31 37l-38 45c-2 3 -11 15 -11 19c0 6 11 5 16 5c2 0 5 0 6 -1l42 -51l42 51c1 1 4 1 5 1c4 0 16 1 16 -7c0 -4 -8 -15 -10 -17l-38 -46l29 -36l88 105c1 1 4 1 5 1 c4 0 9 -3 9 -11c0 -4 -1 -11 -3 -13l-83 -100l83 -99c2 -3 3 -9 3 -14c0 -6 -3 -11 -9 -11c-1 0 -4 0 -5 2l-88 105l-30 -36l39 -46c6 -8 10 -15 10 -20c0 -6 -10 -5 -16 -5c-1 0 -4 0 -5 2l-42 51l-42 -51c-1 -2 -3 -2 -5 -2c-6 0 -16 -1 -16 7c0 4 3 10 10 18l38 45 l-31 37l-86 -105c-1 -2 -3 -2 -5 -2c-6 0 -9 4 -9 12zM146 36l-30 -36l30 -36l30 36z" transform="scale(1,-1)"/>
+</symbol>
+<symbol id="E9F4-ggzmey" overflow="inherit" viewBox="0 0 1000 1000">
+<path d="M0 250h40v-140h-40v140z" transform="scale(1,-1)"/>
+</symbol>
+<symbol id="E9F5-ggzmey" overflow="inherit" viewBox="0 0 1000 1000">
+<path d="M0 140h40v-140h-40v140z" transform="scale(1,-1)"/>
+</symbol>
+<symbol id="E906-ggzmey" overflow="inherit" viewBox="0 0 1000 1000">
+<path d="M181 -131c0 -21 -3 -36 -10 -46c-11 -17 -33 -25 -64 -25c-47 0 -77 9 -91 28c-11 15 -17 47 -17 94v43c0 13 0 26 1 37v41c0 13 0 26 -1 39c0 48 5 79 16 94c14 19 45 28 92 28c32 0 53 -8 64 -24c7 -10 10 -26 10 -47c0 -28 -9 -47 -26 -58c-13 -8 -33 -12 -58 -12h-23 c-7 0 -14 0 -21 1c-17 0 -26 -4 -26 -11v-51v-51c0 -8 8 -12 24 -12c4 0 11 0 22 1s19 1 25 1c25 0 44 -4 56 -11c18 -11 27 -30 27 -59z" transform="scale(1,-1)"/>
+</symbol>
+<symbol id="E915-ggzmey" overflow="inherit" viewBox="0 0 1000 1000">
+<path d="M421 96c-46 77 -101 108 -181 108c-113 0 -204 -91 -204 -204s91 -204 204 -204c78 0 129 34 177 110l33 -22c-41 -74 -120 -124 -210 -124c-132 0 -240 108 -240 240s108 240 240 240c89 0 163 -45 209 -122z" transform="scale(1,-1)"/>
+</symbol>
+<symbol id="E920-ggzmey" overflow="inherit" viewBox="0 0 1000 1000">
+<path d="M0 0c0 35 28 63 63 63s63 -28 63 -63s-28 -63 -63 -63s-63 28 -63 63z" transform="scale(1,-1)"/>
+</symbol>
+<symbol id="E938-ggzmey" overflow="inherit" viewBox="0 0 1000 1000">
+<path d="M0 0l141 141l141 -141l-141 -141z" transform="scale(1,-1)"/>
+</symbol>
+<symbol id="E93E-ggzmey" overflow="inherit" viewBox="0 0 1000 1000">
+<path d="M0 760h30v-760h-30v760z" transform="scale(1,-1)"/>
+</symbol>
+<symbol id="K001" overflow="inherit" viewBox="0 0 1000 1000">
+<path d="M362 1598 c-12 -6 -25 -22 -28 -35 -4 -12 -10 -23 -15 -23 -5 0 -9 -33 -9 -73 l0 -74 -50 -34 c-48 -33 -62 -60 -39 -74 6 -4 28 7 50 24 l39 32 0 -199 0 -198 -76 -74 -75 -73 75 -76 76 -76 0 -298 c0 -279 1 -298 18 -295 16 3 17 26 19 297 l2 294 70 71 c39 39 71 76 71 82 0 5 -31 41 -70 79 l-70 69 0 211 0 211 41 39 c52 51 69 84 69 134 0 59 -43 85 -98 59z m66 -54 c2 -25 -6 -41 -42 -80 l-44 -49 5 65 c7 84 17 102 51 98 22 -2 28 -9 30 -34z m-39 -690 c59 -63 58 -66 -14 -133 l-47 -43 -54 53 c-30 29 -54 58 -54 63 0 11 100 116 111 116 4 0 30 -25 58 -56z" fill="#00000" stroke="none" transform="translate(-370, 675) scale(0.85,-0.85)"/>
+</symbol><symbol id="K002" overflow="inherit" viewBox="0 0 1000 1000">
+<path d="M370 1293 l0 -299 -76 -74 -75 -73 75 -76 76 -76 0 -268 c0 -149 -4 -267 -9 -267 -14 0 -131 -89 -131 -100 0 -22 40 -8 84 31 26 23 48 40 49 38 2 -2 12 -22 23 -44 17 -34 25 -40 55 -43 39 -3 63 16 74 60 6 22 1 33 -23 58 -20 19 -41 30 -59 30 l-28 0 2 252 2 252 71 71 c38 39 70 75 70 81 0 5 -31 41 -70 79 l-70 69 -2 295 c-3 273 -4 296 -20 299 -17 3 -18 -16 -18 -295z m79 -388 c60 -63 59 -66 -14 -134 l-47 -43 -54 53 c-30 29 -54 58 -54 63 0 11 100 116 111 116 3 0 29 -25 58 -55z m29 -757 c26 -26 7 -78 -29 -78 -22 0 -35 18 -42 58 -6 31 -5 32 26 32 18 0 38 -5 45 -12z" fill="#00000" stroke="none" transform="translate(-370, 720) scale(0.85,-0.85)"/>
+</symbol><symbol id="K003" overflow="inherit" viewBox="0 0 1000 1000">
+<path d="M6 -12c-4 3 -5 8 -5 12s1 8 5 11l125 125c3 3 7 5 11 5s8 -2 11 -5l125 -125c3 -3 5 -7 5 -11s-2 -9 -5 -12l-125 -125c-3 -3 -7 -4 -11 -4s-8 1 -11 4zM40 0l102 -103l102 103l-102 102z" fill="#00000" stroke="none" transform="translate(-0,0) scale(1,-1)"/>
+</symbol><symbol id="K004" overflow="inherit" viewBox="0 0 1000 1000">
+<path d="M524 2015 c-176 -178 -176 -174 -4 -345 l139 -138 6 -591 c7 -795 43 -792 50 4 l6 585 154 155 154 155 -159 160 c-192 193 -169 192 -346 15z" fill="#000000" stroke="none" transform="translate(-120,870) scale(0.42,-0.47)"/>
+</symbol><symbol id="K005" overflow="inherit" viewBox="0 0 1000 1000">
+<path d="M255 1000 l-80 -80 78 -78 77 -77 0 -292 c0 -271 4 -322 26 -300 3 3 5 137 4 298 l-1 293 78 78 78 78 -80 80 c-44 44 -84 80 -90 80 -6 0 -46 -36 -90 -80z m145 -16 c28 -26 50 -54 50 -63 0 -17 -88 -111 -104 -111 -17 0 -106 93 -106 111 0 15 91 109 105 109 3 0 28 -21 55 -46z" fill="#00000" stroke="none" transform="translate(-105,770) scale(0.80,-0.85)"/>
+</symbol><symbol id="K006" overflow="inherit" viewBox="0 0 1000 1000">
+<path d="M770 3204 c-96 -20 -150 -125 -150 -293 l0 -122 -100 -75 c-102 -76 -129 -134 -63 -134 21 0 60 18 88 40 28 22 57 40 63 40 7 0 12 -173 12 -386 l0 -385 -140 -139 c-170 -169 -170 -151 0 -320 l139 -138 6 -590 c4 -449 11 -591 30 -597 20 -7 25 118 25 579 l0 587 150 149 c182 181 181 160 10 330 l-140 139 0 421 0 422 82 79 c192 187 185 435 -12 393z m90 -115 c0 -55 -18 -89 -79 -155 l-80 -84 0 131 c-1 145 18 179 103 179 51 0 56 -7 56 -71z" fill="#00000" stroke="none" transform="translate(-360,750) scale(0.42,-0.47)"/>
+</symbol><symbol id="K007" overflow="inherit" viewBox="0 0 1000 1000">
+<path d="M377 1584 c-4 -4 -7 -138 -7 -298 l0 -292 -70 -69 c-38 -38 -70 -74 -70 -80 0 -6 32 -42 70 -80 l70 -69 0 -263 0 -262 -47 -32 c-57 -38 -93 -69 -93 -81 0 -20 39 -5 84 32 l48 40 22 -43 c24 -48 60 -60 102 -32 19 12 24 24 24 55 0 46 -35 80 -81 80 l-29 0 0 248 0 248 75 74 c41 41 75 79 75 85 0 6 -31 42 -70 80 l-70 69 -2 295 c-3 280 -7 319 -31 295z m103 -1438 c16 -20 9 -56 -12 -70 -27 -17 -52 4 -56 48 -3 34 -2 36 26 36 16 0 35 -7 42 -14z" fill="#00000" stroke="none" transform="translate(-370, 720) scale(0.85,-0.85)"/>
+</symbol></defs>
+<style type="text/css">g.page-margin{font-family:Times,serif;} g.ending, g.fing, g.reh, g.tempo{font-weight:bold;} g.dir, g.dynam, g.mNum{font-style:italic;} g.label{font-weight:normal;}</style>
+<svg class="definition-scale" color="black" viewBox="0 0 21000 29700">
+<g class="page-margin" transform="translate(500, 500)">
+<g class="mdiv pageMilestone" id="m-27"/>
+<g class="score pageMilestone" id="m-28"/>
+<g class="system" id="sjrj2fn">
+<g class="label" id="lqhzxxu">
+<text fill="black" font-size="0px" text-anchor="end" x="1308" y="2045">
+<tspan class="text" id="t9vuuq7">
+<tspan font-size="405px">Cantus</tspan>
+</tspan>
+</text>
+</g>
+<g class="section systemMilestone" id="m-41"/>
+<g class="staff" id="m-44">
+<path d="M1488 1595 L4781 1595" stroke="currentColor" stroke-width="13"/>
+<path d="M1488 1775 L4781 1775" stroke="currentColor" stroke-width="13"/>
+<path d="M1488 1955 L4781 1955" stroke="currentColor" stroke-width="13"/>
+<path d="M1488 2135 L4781 2135" stroke="currentColor" stroke-width="13"/>
+<path d="M1488 2315 L4781 2315" stroke="currentColor" stroke-width="13"/>
+<g class="clef" id="csgxu82">
+<use height="720px" width="720px" x="1578" xlink:href="#E906-ggzmey" y="2315"/>
+</g>
+<g class="keySig" id="kmk85mc"/>
+<g class="mensur" id="m11ciz7i">
+<use height="720px" width="720px" x="1889" xlink:href="#E915-ggzmey" y="1955"/>
+<use height="720px" width="720px" x="2016" xlink:href="#E920-ggzmey" y="1955"/>
+</g>
+<g class="layer" id="m-45">
+<g class="note" id="m-46">
+<g class="notehead">
+<rect fill="black" height="144" width="126" x="2497" y="1793"/>
+<rect fill="black" height="144" width="18" x="2479" y="1793"/>
+<rect fill="black" height="144" width="18" x="2623" y="1793"/>
+</g>
+<g class="verse" id="vj4xesw">
+<g class="syl" id="sguuau8">
+<text fill="black" font-size="0px" x="2389" y="2807">
+<tspan class="text" id="t14zp95n">
+<tspan font-size="405px">En</tspan>
+</tspan>
+</text>
+</g>
+</g>
+<g class="verse" id="v1s3z02v">
+<g class="syl" id="s1eli92l">
+<text fill="black" font-size="0px" x="2389" y="3207">
+<tspan class="text" id="t1nc6m82">
+<tspan font-size="405px">En</tspan>
+</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="si4un4g">
+<path d="M4781 1595 L9665 1595" stroke="currentColor" stroke-width="13"/>
+<path d="M4781 1775 L9665 1775" stroke="currentColor" stroke-width="13"/>
+<path d="M4781 1955 L9665 1955" stroke="currentColor" stroke-width="13"/>
+<path d="M4781 2135 L9665 2135" stroke="currentColor" stroke-width="13"/>
+<path d="M4781 2315 L9665 2315" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="l1hn559n">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-47">
+<g class="notehead">
+<use height="720px" width="720px" x="4957" xlink:href="#E938-ggzmey" y="2045"/>
+</g>
+<g class="stem" id="sgpgk57">
+<use height="720px" width="720px" x="5048" xlink:href="#E93E-ggzmey" y="1965"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-48">
+<g class="notehead">
+<use height="720px" width="720px" x="5734" xlink:href="#E938-ggzmey" y="1955"/>
+</g>
+<g class="stem" id="s1qt15cu">
+<use height="720px" width="720px" x="5825" xlink:href="#E93E-ggzmey" y="1875"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-49">
+<g class="notehead">
+<use height="720px" width="720px" x="6512" xlink:href="#E938-ggzmey" y="1865"/>
+</g>
+</g>
+<g class="note" id="m-50">
+<g class="notehead">
+<use height="720px" width="720px" x="7700" xlink:href="#E938-ggzmey" y="1955"/>
+</g>
+<g class="stem" id="s18yfgk">
+<use height="720px" width="720px" x="7791" xlink:href="#E93E-ggzmey" y="1875"/>
+</g>
+</g>
+<g class="note" id="m-51">
+<g class="notehead">
+<use height="720px" width="720px" x="8477" xlink:href="#E938-ggzmey" y="2045"/>
+</g>
+<g class="stem" id="s12jisyc">
+<use height="720px" width="720px" x="8568" xlink:href="#E93E-ggzmey" y="1965"/>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="skpyy63">
+<path d="M9665 1595 L13634 1595" stroke="currentColor" stroke-width="13"/>
+<path d="M9665 1775 L13634 1775" stroke="currentColor" stroke-width="13"/>
+<path d="M9665 1955 L13634 1955" stroke="currentColor" stroke-width="13"/>
+<path d="M9665 2135 L13634 2135" stroke="currentColor" stroke-width="13"/>
+<path d="M9665 2315 L13634 2315" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="l16bbu0b">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-52">
+<g class="notehead">
+<use height="720px" width="720px" x="9841" xlink:href="#E938-ggzmey" y="2135"/>
+</g>
+</g>
+<g class="note" id="m-53">
+<g class="notehead">
+<use height="720px" width="720px" x="11029" xlink:href="#K001" y="2225"/>
+</g>
+</g>
+<g class="note" id="m-56">
+<g class="notehead">
+<use height="720px" width="720px" x="11606" xlink:href="#K001" y="2135"/>
+</g>
+</g>
+<g class="note" id="m-59">
+<g class="notehead">
+<use height="720px" width="720px" x="12184" xlink:href="#K001" y="2045"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-62">
+<g class="notehead">
+<use height="720px" width="720px" x="12762" xlink:href="#K002" y="2225"/>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="s1u0hhfo">
+<path d="M13634 1595 L20001 1595" stroke="currentColor" stroke-width="13"/>
+<path d="M13634 1775 L20001 1775" stroke="currentColor" stroke-width="13"/>
+<path d="M13634 1955 L20001 1955" stroke="currentColor" stroke-width="13"/>
+<path d="M13634 2135 L20001 2135" stroke="currentColor" stroke-width="13"/>
+<path d="M13634 2315 L20001 2315" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="l1060lgz">
+<g class="rest" id="m-65">
+<use height="720px" width="720px" x="13810" xlink:href="#E9F5-ggzmey" y="1955"/>
+<g class="ledgerLines"/>
+</g>
+<g class="ligature" id="m-66">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-67">
+<polygon points="14587,2243 14749,2243 14749,2387 14587,2387"/>
+<rect height="522" rx="6" width="18" x="14587" y="1865"/>
+<g class="verse" id="v4pkp5o">
+<g class="syl" id="sysf7gs">
+<text fill="black" font-size="0px" x="14497" y="2807">
+<tspan class="text" id="t9txyz2">
+<tspan font-size="405px">at</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="15493" y="2704"/>
+</g>
+</g>
+<g class="verse" id="v16u80qy">
+<g class="syl" id="s1ct4npm">
+<text fill="black" font-size="0px" x="14497" y="3207">
+<tspan class="text" id="ti7km44">
+<tspan font-size="405px">at</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="15493" y="3104"/>
+</g>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-68">
+<polygon points="14731,2153 14893,2153 14893,2297 14731,2297"/>
+<rect height="234" rx="6" width="18" x="14731" y="2153"/>
+<rect height="144" rx="6" width="18" x="14875" y="2153"/>
+</g>
+</g>
+<g class="ligature" id="m-69">
+<g class="note" id="m-70">
+<polygon points="16385,2061 16548,2111 16548,2255 16385,2205"/>
+<rect height="477" rx="6" width="18" x="16385" y="1685"/>
+<g class="verse" id="vibuwcw">
+<g class="syl" id="spfsoyu">
+<text fill="black" font-size="0px" x="16295" y="2807">
+<tspan class="text" id="t1szy84y">
+<tspan font-size="405px">ten</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="17797" y="2704"/>
+<rect fill="black" height="22" width="98" x="18997" y="2704"/>
+</g>
+</g>
+<g class="verse" id="vbbk097">
+<g class="syl" id="s1x1elgc">
+<text fill="black" font-size="0px" x="16295" y="3207">
+<tspan class="text" id="tjaed51">
+<tspan font-size="405px">ten</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="17797" y="3104"/>
+<rect fill="black" height="22" width="98" x="18997" y="3104"/>
+</g>
+</g>
+</g>
+<g class="note" id="m-71">
+<polygon points="16538,2108 16691,2155 16691,2299 16538,2252"/>
+<rect height="54" rx="6" width="18" x="16673" y="2198"/>
+</g>
+</g>
+<g class="note" id="m-72">
+<g class="notehead">
+<use height="720px" width="720px" x="18446" xlink:href="#E938-ggzmey" y="2135"/>
+</g>
+<g class="stem" id="s1t3olul">
+<use height="720px" width="720px" x="18537" xlink:href="#E93E-ggzmey" y="2055"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-73">
+<g class="notehead">
+<use height="720px" width="720px" x="19224" xlink:href="#E938-ggzmey" y="2315"/>
+</g>
+<g class="stem" id="s154bqjs">
+<use height="720px" width="720px" x="19315" xlink:href="#E93E-ggzmey" y="2235"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g class="system" id="sfaeodb">
+<g class="staff" id="s9o2ulu">
+<path d="M0 4195 L3340 4195" stroke="currentColor" stroke-width="13"/>
+<path d="M0 4375 L3340 4375" stroke="currentColor" stroke-width="13"/>
+<path d="M0 4555 L3340 4555" stroke="currentColor" stroke-width="13"/>
+<path d="M0 4735 L3340 4735" stroke="currentColor" stroke-width="13"/>
+<path d="M0 4915 L3340 4915" stroke="currentColor" stroke-width="13"/>
+<g class="clef" id="cjz95lf">
+<use height="720px" width="720px" x="90" xlink:href="#E906-ggzmey" y="4915"/>
+</g>
+<g class="keySig" id="k1mrr1ey"/>
+<g class="layer" id="lota2tw">
+<g class="note" id="m-800">
+<g class="notehead">
+<use height="720px" width="720px" x="498" xlink:href="#E938-ggzmey" y="4825"/>
+</g>
+<g class="verse" id="vd7s9f8">
+<g class="syl" id="s1xkpbiv">
+<text fill="black" font-size="0px" x="408" y="5407">
+<tspan class="text" id="telpj2h">
+<tspan font-size="405px">dant,</tspan>
+</tspan>
+</text>
+</g>
+</g>
+<g class="verse" id="v11yp6yr">
+<g class="syl" id="s1or9z3a">
+<text fill="black" font-size="0px" x="408" y="5807">
+<tspan class="text" id="t1y6j3op">
+<tspan font-size="405px">dant</tspan>
+</tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="rest" id="m-801">
+<use height="720px" width="720px" x="1919" xlink:href="#E9F4-ggzmey" y="4555"/>
+<g class="ledgerLines"/>
+</g>
+</g>
+</g>
+<g class="staff" id="s21qx8i">
+<path d="M3340 4195 L7217 4195" stroke="currentColor" stroke-width="13"/>
+<path d="M3340 4375 L7217 4375" stroke="currentColor" stroke-width="13"/>
+<path d="M3340 4555 L7217 4555" stroke="currentColor" stroke-width="13"/>
+<path d="M3340 4735 L7217 4735" stroke="currentColor" stroke-width="13"/>
+<path d="M3340 4915 L7217 4915" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="l112ea3b">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-74">
+<g class="notehead">
+<use height="720px" width="720px" x="3527" xlink:href="#E938-ggzmey" y="4195"/>
+</g>
+<g class="verse" id="vk6k0bg">
+<g class="syl" id="s1v3biax">
+<text fill="black" font-size="0px" x="3437" y="5407">
+<tspan class="text" id="tp0t1f7">
+<tspan font-size="405px">Es</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="4148" y="5304"/>
+</g>
+</g>
+<g class="verse" id="vodkpa9">
+<g class="syl" id="s3avzt0">
+<text fill="black" font-size="0px" x="3437" y="5807">
+<tspan class="text" id="t130burb">
+<tspan font-size="405px">se</tspan>
+</tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-75">
+<g class="notehead">
+<use height="720px" width="720px" x="4642" xlink:href="#E938-ggzmey" y="4195"/>
+</g>
+<g class="verse" id="vbzpfzb">
+<g class="syl" id="styyi85">
+<text fill="black" font-size="0px" x="4552" y="5407">
+<tspan class="text" id="t15xhujk">
+<tspan font-size="405px">pe</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="5252" y="5304"/>
+</g>
+</g>
+<g class="verse" id="v146qiwg">
+<g class="syl" id="s9chgy6">
+<text fill="black" font-size="0px" x="4552" y="5807">
+<tspan class="text" id="txfqkzl">
+<tspan font-size="405px">de</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="5252" y="5704"/>
+</g>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-76">
+<g class="notehead">
+<use height="720px" width="720px" x="5757" xlink:href="#E938-ggzmey" y="4285"/>
+</g>
+<g class="stem" id="s14gaoqu">
+<use height="720px" width="720px" x="5848" xlink:href="#E93E-ggzmey" y="4205"/>
+</g>
+<g class="verse" id="v6rys08">
+<g class="syl" id="s137zaih">
+<text fill="black" font-size="0px" x="5667" y="5407">
+<tspan class="text" id="t23wqab">
+<tspan font-size="405px">ran</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="6700" y="5304"/>
+</g>
+</g>
+<g class="verse" id="vbeiiro">
+<g class="syl" id="s11csqj6">
+<text fill="black" font-size="0px" x="5667" y="5807">
+<tspan class="text" id="tt5mbw8">
+<tspan font-size="405px">duit</tspan>
+</tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-77">
+<g class="notehead">
+<use height="720px" width="720px" x="6487" xlink:href="#E938-ggzmey" y="4375"/>
+</g>
+<g class="stem" id="sbs1snw">
+<use height="720px" width="720px" x="6578" xlink:href="#E93E-ggzmey" y="4295"/>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="s1u8jdid">
+<path d="M7217 4195 L11479 4195" stroke="currentColor" stroke-width="13"/>
+<path d="M7217 4375 L11479 4375" stroke="currentColor" stroke-width="13"/>
+<path d="M7217 4555 L11479 4555" stroke="currentColor" stroke-width="13"/>
+<path d="M7217 4735 L11479 4735" stroke="currentColor" stroke-width="13"/>
+<path d="M7217 4915 L11479 4915" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="l1d1ws8n">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-78">
+<g class="notehead">
+<use height="720px" width="720px" x="7404" xlink:href="#E938-ggzmey" y="4465"/>
+</g>
+<g class="verse" id="vfk8x7b">
+<g class="syl" id="s1clwv83">
+<text fill="black" font-size="0px" x="7314" y="5407">
+<tspan class="text" id="tqull28">
+<tspan font-size="405px">ce</tspan>
+</tspan>
+</text>
+</g>
+</g>
+<g class="verse" id="v1697okn">
+<g class="syl" id="s15sy695">
+<text fill="black" font-size="0px" x="7314" y="5807">
+<tspan class="text" id="t56l27k">
+<tspan font-size="405px">et</tspan>
+</tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-79">
+<g class="notehead">
+<use height="720px" width="720px" x="8519" xlink:href="#E938-ggzmey" y="4465"/>
+</g>
+<g class="verse" id="vecdqkw">
+<g class="syl" id="s1d0ioaa">
+<text fill="black" font-size="0px" x="8429" y="5407">
+<tspan class="text" id="td3u3k0">
+<tspan font-size="405px">con</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="9595" y="5304"/>
+</g>
+</g>
+<g class="verse" id="vsnth4v">
+<g class="syl" id="s1o7s5mk">
+<text fill="black" font-size="0px" x="8429" y="5807">
+<tspan class="text" id="txq2tq">
+<tspan font-size="405px">dé</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="9505" y="5704"/>
+</g>
+</g>
+</g>
+<g class="note" id="m-80">
+<g class="notehead">
+<use height="720px" width="720px" x="9634" xlink:href="#E938-ggzmey" y="4555"/>
+</g>
+<g class="stem" id="s1lskjis">
+<use height="720px" width="720px" x="9725" xlink:href="#E93E-ggzmey" y="4475"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-81">
+<g class="notehead">
+<use height="720px" width="720px" x="10364" xlink:href="#E938-ggzmey" y="4645"/>
+</g>
+<g class="verse" id="v1fj03te">
+<g class="syl" id="s2ptmmo">
+<text fill="black" font-size="0px" x="10274" y="5407">
+<tspan class="text" id="t1jevgj2">
+<tspan font-size="405px">for</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="11112" y="5304"/>
+</g>
+</g>
+<g class="verse" id="v1kz17lr">
+<g class="syl" id="sia4ugh">
+<text fill="black" font-size="0px" x="10274" y="5807">
+<tspan class="text" id="t1s0om27">
+<tspan font-size="405px">por</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="11146" y="5704"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="s1yyuuur">
+<path d="M11479 4195 L13601 4195" stroke="currentColor" stroke-width="13"/>
+<path d="M11479 4375 L13601 4375" stroke="currentColor" stroke-width="13"/>
+<path d="M11479 4555 L13601 4555" stroke="currentColor" stroke-width="13"/>
+<path d="M11479 4735 L13601 4735" stroke="currentColor" stroke-width="13"/>
+<path d="M11479 4915 L13601 4915" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="lhv356h">
+<g class="note" id="m-82">
+<g class="notehead">
+<rect fill="black" height="144" width="126" x="11684" y="4663"/>
+<rect fill="black" height="144" width="18" x="11666" y="4663"/>
+<rect fill="black" height="144" width="18" x="11810" y="4663"/>
+</g>
+<g class="verse" id="vjflv8y">
+<g class="syl" id="s15yi747">
+<text fill="black" font-size="0px" x="11576" y="5407">
+<tspan class="text" id="t12r47ne">
+<tspan font-size="405px">te</tspan>
+</tspan>
+</text>
+</g>
+</g>
+<g class="verse" id="v1m1o93h">
+<g class="syl" id="s17wqmhr">
+<text fill="black" font-size="0px" x="11576" y="5807">
+<tspan class="text" id="t15sxip5">
+<tspan font-size="405px">te,</tspan>
+</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="s6jv6e6">
+<path d="M13601 4195 L17172 4195" stroke="currentColor" stroke-width="13"/>
+<path d="M13601 4375 L17172 4375" stroke="currentColor" stroke-width="13"/>
+<path d="M13601 4555 L17172 4555" stroke="currentColor" stroke-width="13"/>
+<path d="M13601 4735 L17172 4735" stroke="currentColor" stroke-width="13"/>
+<path d="M13601 4915 L17172 4915" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="lolxk1f">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-83">
+<g class="notehead">
+<use height="720px" width="720px" x="13788" xlink:href="#K003" y="4825"/>
+</g>
+<g class="stem" id="s9oaknt">
+<use height="720px" width="720px" x="13879" xlink:href="#E93E-ggzmey" y="4745"/>
+</g>
+<g class="verse" id="v7tgzjs">
+<g class="syl" id="sogi1jo">
+<text fill="black" font-size="0px" x="13698" y="5407">
+<tspan class="text" id="t18wh3ku">
+<tspan font-size="405px">l'hou</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="15232" y="5304"/>
+<rect fill="black" height="22" width="98" x="16432" y="5304"/>
+</g>
+</g>
+<g class="verse" id="vx4zhsu">
+<g class="syl" id="sirqtxa">
+<text fill="black" font-size="0px" x="13698" y="5807">
+<tspan class="text" id="tjk5695">
+<tspan font-size="405px">en</tspan>
+</tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-84">
+<g class="notehead">
+<use height="720px" width="720px" x="14399" xlink:href="#K003" y="4735"/>
+</g>
+<g class="stem" id="s95kabi">
+<use height="720px" width="720px" x="14490" xlink:href="#E93E-ggzmey" y="4655"/>
+</g>
+</g>
+<g class="ligature" id="m-85">
+<g class="note" id="m-86">
+<polygon points="15010,4573 15172,4573 15172,4717 15010,4717"/>
+<rect height="522" rx="6" width="18" x="15010" y="4195"/>
+</g>
+<g class="note" id="m-87">
+<polygon points="15154,4483 15316,4483 15316,4627 15154,4627"/>
+<rect height="234" rx="6" width="18" x="15154" y="4483"/>
+<rect height="144" rx="6" width="18" x="15298" y="4483"/>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="s1o0b5ux">
+<path d="M17172 4195 L20003 4195" stroke="currentColor" stroke-width="13"/>
+<path d="M17172 4375 L20003 4375" stroke="currentColor" stroke-width="13"/>
+<path d="M17172 4555 L20003 4555" stroke="currentColor" stroke-width="13"/>
+<path d="M17172 4735 L20003 4735" stroke="currentColor" stroke-width="13"/>
+<path d="M17172 4915 L20003 4915" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="l19ty1go">
+<g class="note" id="m-88">
+<g class="notehead">
+<use height="720px" width="720px" x="17359" xlink:href="#E938-ggzmey" y="4465"/>
+</g>
+<g class="verse" id="v5q7fch">
+<g class="syl" id="s1ple0kf">
+<text fill="black" font-size="0px" x="17269" y="5407">
+<tspan class="text" id="t1a1wjg0">
+<tspan font-size="405px">me</tspan>
+</tspan>
+</text>
+</g>
+</g>
+<g class="verse" id="v1x59foo">
+<g class="syl" id="s1nbhvk1">
+<text fill="black" font-size="0px" x="17269" y="5807">
+<tspan class="text" id="trkg3bg">
+<tspan font-size="405px">at</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="18184" y="5704"/>
+<rect fill="black" height="22" width="98" x="19384" y="5704"/>
+</g>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-89">
+<g class="notehead">
+<use height="720px" width="720px" x="18780" xlink:href="#K003" y="4735"/>
+</g>
+<g class="stem" id="s19ivy5r">
+<use height="720px" width="720px" x="18871" xlink:href="#E93E-ggzmey" y="4655"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-90">
+<g class="notehead">
+<use height="720px" width="720px" x="19391" xlink:href="#K003" y="4645"/>
+</g>
+<g class="stem" id="smnm5qg">
+<use height="720px" width="720px" x="19482" xlink:href="#E93E-ggzmey" y="4565"/>
+</g>
+<g class="accid" id="advcwj4">
+<use height="720px" width="720px" x="19136" xlink:href="#E9E3-ggzmey" y="4645"/>
+</g>
+</g>
+</g>
+</g>
+<g class="syl id-spfsoyu spanning">
+<rect fill="black" height="22" width="98" x="220" y="5304"/>
+</g>
+<g class="syl id-s1x1elgc spanning">
+<rect fill="black" height="22" width="98" x="220" y="5704"/>
+</g>
+</g>
+<g class="system" id="st9xgp7">
+<g class="staff" id="sbdyr1">
+<path d="M0 6795 L4681 6795" stroke="currentColor" stroke-width="13"/>
+<path d="M0 6975 L4681 6975" stroke="currentColor" stroke-width="13"/>
+<path d="M0 7155 L4681 7155" stroke="currentColor" stroke-width="13"/>
+<path d="M0 7335 L4681 7335" stroke="currentColor" stroke-width="13"/>
+<path d="M0 7515 L4681 7515" stroke="currentColor" stroke-width="13"/>
+<g class="clef" id="ck4wwkk">
+<use height="720px" width="720px" x="90" xlink:href="#E906-ggzmey" y="7515"/>
+</g>
+<g class="keySig" id="k15hpdsk"/>
+<g class="layer" id="lwp1u5a">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-91">
+<g class="notehead">
+<use height="720px" width="720px" x="499" xlink:href="#K003" y="7155"/>
+</g>
+<g class="stem" id="s1nz5qj4">
+<use height="720px" width="720px" x="590" xlink:href="#E93E-ggzmey" y="7075"/>
+</g>
+<g class="verse" id="vap052n">
+<g class="syl" id="sslff4z">
+<text fill="black" font-size="0px" x="409" y="8007">
+<tspan class="text" id="t4kr1uc">
+<tspan font-size="405px">qui</tspan>
+</tspan>
+</text>
+</g>
+</g>
+<g class="verse" id="v1aka0d8">
+<g class="syl" id="sfnjdvj">
+<text fill="black" font-size="0px" x="409" y="8407">
+<tspan class="text" id="tx32dhy">
+<tspan font-size="405px">ten</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="1322" y="8304"/>
+</g>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-92">
+<g class="notehead">
+<use height="720px" width="720px" x="1213" xlink:href="#K003" y="7065"/>
+</g>
+<g class="stem" id="s1lv7yf2">
+<use height="720px" width="720px" x="1304" xlink:href="#E93E-ggzmey" y="6985"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-93">
+<g class="notehead">
+<use height="720px" width="720px" x="1927" xlink:href="#E938-ggzmey" y="7245"/>
+</g>
+<g class="verse" id="vltmv59">
+<g class="syl" id="shiaiv4">
+<text fill="black" font-size="0px" x="1837" y="8007">
+<tspan class="text" id="t1hwm2gu">
+<tspan font-size="405px">vuet</tspan>
+</tspan>
+</text>
+</g>
+</g>
+<g class="verse" id="v1f67797">
+<g class="syl" id="s1nymb3r">
+<text fill="black" font-size="0px" x="1837" y="8407">
+<tspan class="text" id="t1sv3j3m">
+<tspan font-size="405px">dant</tspan>
+</tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="note" id="m-94">
+<g class="notehead">
+<use height="720px" width="720px" x="3021" xlink:href="#E938-ggzmey" y="7155"/>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="s12y3phh">
+<path d="M4681 6795 L8683 6795" stroke="currentColor" stroke-width="13"/>
+<path d="M4681 6975 L8683 6975" stroke="currentColor" stroke-width="13"/>
+<path d="M4681 7155 L8683 7155" stroke="currentColor" stroke-width="13"/>
+<path d="M4681 7335 L8683 7335" stroke="currentColor" stroke-width="13"/>
+<path d="M4681 7515 L8683 7515" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="lj878ci">
+<g class="rest" id="m-95">
+<use height="720px" width="720px" x="4869" xlink:href="#E9F4-ggzmey" y="7155"/>
+<g class="ledgerLines"/>
+</g>
+<g class="note" id="m-96">
+<g class="notehead">
+<use height="720px" width="720px" x="6528" xlink:href="#E938-ggzmey" y="7065"/>
+</g>
+<g class="stem" id="s7hirh6">
+<use height="720px" width="720px" x="6619" xlink:href="#E93E-ggzmey" y="6985"/>
+</g>
+<g class="verse" id="v1cgyk6l">
+<g class="syl" id="s1kdy30m">
+<text fill="black" font-size="0px" x="6438" y="8007">
+<tspan class="text" id="t2gt87j">
+<tspan font-size="405px">a</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="7311" y="7904"/>
+<rect fill="black" height="22" width="98" x="8511" y="7904"/>
+<rect fill="black" height="22" width="98" x="9711" y="7904"/>
+<rect fill="black" height="22" width="98" x="10911" y="7904"/>
+<rect fill="black" height="22" width="98" x="12111" y="7904"/>
+<rect fill="black" height="22" width="98" x="13311" y="7904"/>
+<rect fill="black" height="22" width="98" x="14511" y="7904"/>
+<rect fill="black" height="22" width="98" x="15711" y="7904"/>
+<rect fill="black" height="22" width="98" x="16911" y="7904"/>
+<rect fill="black" height="22" width="98" x="18111" y="7904"/>
+<rect fill="black" height="22" width="98" x="19311" y="7904"/>
+</g>
+</g>
+<g class="verse" id="vovvifk">
+<g class="syl" id="s12yc5le">
+<text fill="black" font-size="0px" x="6438" y="8407">
+<tspan class="text" id="tjbuxh0">
+<tspan font-size="405px">li</tspan>
+</tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="note" id="m-97">
+<g class="notehead">
+<use height="720px" width="720px" x="7381" xlink:href="#E938-ggzmey" y="6975"/>
+</g>
+<g class="stem" id="sy7ns80">
+<use height="720px" width="720px" x="7472" xlink:href="#E93E-ggzmey" y="6895"/>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="sljt78m">
+<path d="M8683 6795 L14148 6795" stroke="currentColor" stroke-width="13"/>
+<path d="M8683 6975 L14148 6975" stroke="currentColor" stroke-width="13"/>
+<path d="M8683 7155 L14148 7155" stroke="currentColor" stroke-width="13"/>
+<path d="M8683 7335 L14148 7335" stroke="currentColor" stroke-width="13"/>
+<path d="M8683 7515 L14148 7515" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="lfyxreq">
+<g class="note" id="m-98">
+<g class="notehead">
+<use height="720px" width="720px" x="9137" xlink:href="#E938-ggzmey" y="6885"/>
+</g>
+<g class="accid" id="arrc4u3">
+<use height="720px" width="720px" x="8882" xlink:href="#E9E3-ggzmey" y="6885"/>
+</g>
+</g>
+<g class="note" id="m-99">
+<g class="notehead">
+<use height="720px" width="720px" x="10439" xlink:href="#E938-ggzmey" y="7065"/>
+</g>
+<g class="stem" id="s1uaa9s5">
+<use height="720px" width="720px" x="10530" xlink:href="#E93E-ggzmey" y="6985"/>
+</g>
+</g>
+<g class="note" id="m-100">
+<g class="notehead">
+<use height="720px" width="720px" x="11291" xlink:href="#K001" y="6795"/>
+</g>
+</g>
+<g class="note" id="m-103">
+<g class="notehead">
+<use height="720px" width="720px" x="11925" xlink:href="#K001" y="6885"/>
+</g>
+</g>
+<g class="note" id="m-106">
+<g class="notehead">
+<use height="720px" width="720px" x="12559" xlink:href="#K001" y="6975"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-109">
+<g class="notehead">
+<use height="720px" width="720px" x="13192" xlink:href="#K002" y="7065"/>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="s16bdest">
+<path d="M14148 6795 L20002 6795" stroke="currentColor" stroke-width="13"/>
+<path d="M14148 6975 L20002 6975" stroke="currentColor" stroke-width="13"/>
+<path d="M14148 7155 L20002 7155" stroke="currentColor" stroke-width="13"/>
+<path d="M14148 7335 L20002 7335" stroke="currentColor" stroke-width="13"/>
+<path d="M14148 7515 L20002 7515" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="l1e18iqo">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-112">
+<g class="notehead">
+<use height="720px" width="720px" x="14336" xlink:href="#K003" y="7065"/>
+</g>
+<g class="stem" id="so7eh4y">
+<use height="720px" width="720px" x="14427" xlink:href="#E93E-ggzmey" y="6985"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-113">
+<g class="notehead">
+<use height="720px" width="720px" x="15050" xlink:href="#K003" y="7155"/>
+</g>
+<g class="stem" id="skll9kz">
+<use height="720px" width="720px" x="15141" xlink:href="#E93E-ggzmey" y="7075"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-114">
+<g class="notehead">
+<use height="720px" width="720px" x="15764" xlink:href="#K002" y="7155"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-117">
+<g class="notehead">
+<use height="720px" width="720px" x="16720" xlink:href="#K002" y="7065"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-120">
+<g class="notehead">
+<use height="720px" width="720px" x="17284" xlink:href="#K002" y="7245"/>
+</g>
+</g>
+<g class="note" id="m-123">
+<g class="notehead">
+<use height="720px" width="720px" x="17848" xlink:href="#E938-ggzmey" y="6975"/>
+</g>
+<g class="stem" id="s1ch3hmm">
+<use height="720px" width="720px" x="17939" xlink:href="#E93E-ggzmey" y="6895"/>
+</g>
+</g>
+<g class="note" id="m-124">
+<g class="notehead">
+<use height="720px" width="720px" x="18700" xlink:href="#E938-ggzmey" y="7065"/>
+</g>
+</g>
+</g>
+</g>
+<g class="syl id-s1nbhvk1 spanning">
+<rect fill="black" height="22" width="98" x="221" y="8304"/>
+</g>
+</g>
+<g class="system" id="s1ys6f4i">
+<g class="staff" id="s6a9er3">
+<path d="M0 9395 L6173 9395" stroke="currentColor" stroke-width="13"/>
+<path d="M0 9575 L6173 9575" stroke="currentColor" stroke-width="13"/>
+<path d="M0 9755 L6173 9755" stroke="currentColor" stroke-width="13"/>
+<path d="M0 9935 L6173 9935" stroke="currentColor" stroke-width="13"/>
+<path d="M0 10115 L6173 10115" stroke="currentColor" stroke-width="13"/>
+<g class="clef" id="c1u9p1t1">
+<use height="720px" width="720px" x="90" xlink:href="#E906-ggzmey" y="10115"/>
+</g>
+<g class="keySig" id="k1156yyb"/>
+<g class="layer" id="lw1s3ox">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-125">
+<g class="notehead">
+<use height="720px" width="720px" x="499" xlink:href="#K002" y="9935"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-128">
+<g class="notehead">
+<use height="720px" width="720px" x="1037" xlink:href="#K002" y="9845"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-131">
+<g class="notehead">
+<use height="720px" width="720px" x="1576" xlink:href="#K002" y="9755"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-134">
+<g class="notehead">
+<use height="720px" width="720px" x="2115" xlink:href="#K002" y="9665"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-137">
+<g class="notehead">
+<use height="720px" width="720px" x="2653" xlink:href="#K002" y="9845"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-140">
+<g class="notehead">
+<use height="720px" width="720px" x="3192" xlink:href="#K002" y="9755"/>
+</g>
+</g>
+<g class="note" id="m-143">
+<g class="notehead">
+<use height="720px" width="720px" x="3731" xlink:href="#E938-ggzmey" y="9935"/>
+</g>
+<g class="stem" id="s19x47mv">
+<use height="720px" width="720px" x="3822" xlink:href="#E93E-ggzmey" y="9855"/>
+</g>
+</g>
+<g class="note" id="m-144">
+<g class="notehead">
+<use height="720px" width="720px" x="4545" xlink:href="#E938-ggzmey" y="9845"/>
+</g>
+<g class="stem" id="siylin1">
+<use height="720px" width="720px" x="4636" xlink:href="#E93E-ggzmey" y="9765"/>
+</g>
+</g>
+<g class="note" id="m-145">
+<g class="notehead">
+<use height="720px" width="720px" x="5359" xlink:href="#E938-ggzmey" y="10025"/>
+</g>
+<g class="stem" id="s1kk9iyc">
+<use height="720px" width="720px" x="5450" xlink:href="#E93E-ggzmey" y="9945"/>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="spm6op6">
+<path d="M6173 9395 L9586 9395" stroke="currentColor" stroke-width="13"/>
+<path d="M6173 9575 L9586 9575" stroke="currentColor" stroke-width="13"/>
+<path d="M6173 9755 L9586 9755" stroke="currentColor" stroke-width="13"/>
+<path d="M6173 9935 L9586 9935" stroke="currentColor" stroke-width="13"/>
+<path d="M6173 10115 L9586 10115" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="llngg3a">
+<g class="rest" id="m-146">
+<use height="720px" width="720px" x="6361" xlink:href="#E9F5-ggzmey" y="9755"/>
+<g class="ledgerLines"/>
+</g>
+<g class="ligature" id="m-147">
+<g class="note" id="m-148">
+<polygon points="7175,10043 7337,10043 7337,10187 7175,10187"/>
+<rect height="522" rx="6" width="18" x="7175" y="9665"/>
+<g class="verse" id="v15hh846">
+<g class="syl" id="smiy7q2">
+<text fill="black" font-size="0px" x="7085" y="11007">
+<tspan class="text" id="t12ecyn7">
+<tspan font-size="405px">prou</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="8707" y="10904"/>
+</g>
+</g>
+</g>
+<g class="note" id="m-149">
+<polygon points="7319,9953 7481,9953 7481,10097 7319,10097"/>
+<rect height="234" rx="6" width="18" x="7319" y="9953"/>
+<rect height="144" rx="6" width="18" x="7463" y="9953"/>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="swb3j7">
+<path d="M9586 9395 L12988 9395" stroke="currentColor" stroke-width="13"/>
+<path d="M9586 9575 L12988 9575" stroke="currentColor" stroke-width="13"/>
+<path d="M9586 9755 L12988 9755" stroke="currentColor" stroke-width="13"/>
+<path d="M9586 9935 L12988 9935" stroke="currentColor" stroke-width="13"/>
+<path d="M9586 10115 L12988 10115" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="lmti9z8">
+<g class="note" id="m-150">
+<g class="notehead">
+<use height="720px" width="720px" x="9774" xlink:href="#E938-ggzmey" y="9935"/>
+</g>
+<g class="verse" id="vc3etx8">
+<g class="syl" id="soz86w2">
+<text fill="black" font-size="0px" x="9684" y="10607">
+<tspan class="text" id="tjmz3x7">
+<tspan font-size="405px">voir</tspan>
+</tspan>
+</text>
+</g>
+</g>
+<g class="verse" id="v1nov5rf">
+<g class="syl" id="s1eom4vc">
+<text fill="black" font-size="0px" x="9684" y="11007">
+<tspan class="text" id="t13y6tn2">
+<tspan font-size="405px">met</tspan>
+</tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="rest" id="m-151">
+<use height="720px" width="720px" x="11359" xlink:href="#E9F5-ggzmey" y="9755"/>
+<g class="ledgerLines"/>
+</g>
+<g class="note" id="m-152">
+<g class="notehead">
+<use height="720px" width="720px" x="12174" xlink:href="#E938-ggzmey" y="9575"/>
+</g>
+<g class="stem" id="sww4bf6">
+<use height="720px" width="720px" x="12265" xlink:href="#E93E-ggzmey" y="9495"/>
+</g>
+<g class="verse" id="vmsd4fh">
+<g class="syl" id="sfq1q8g">
+<text fill="black" font-size="0px" x="12084" y="10607">
+<tspan class="text" id="t1j4u0ss">
+<tspan font-size="405px">per</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="12795" y="10504"/>
+</g>
+</g>
+<g class="verse" id="v8ce79n">
+<g class="syl" id="s1x2upj0">
+<text fill="black" font-size="0px" x="12084" y="11007">
+<tspan class="text" id="touhchc">
+<tspan font-size="405px">guer</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="12896" y="10904"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="s1f1jrm5">
+<path d="M12988 9395 L17117 9395" stroke="currentColor" stroke-width="13"/>
+<path d="M12988 9575 L17117 9575" stroke="currentColor" stroke-width="13"/>
+<path d="M12988 9755 L17117 9755" stroke="currentColor" stroke-width="13"/>
+<path d="M12988 9935 L17117 9935" stroke="currentColor" stroke-width="13"/>
+<path d="M12988 10115 L17117 10115" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="l1o7x6dy">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-153">
+<g class="notehead">
+<use height="720px" width="720px" x="13176" xlink:href="#E938-ggzmey" y="9395"/>
+</g>
+<g class="verse" id="v1is56qi">
+<g class="syl" id="s10io4jz">
+<text fill="black" font-size="0px" x="13086" y="10607">
+<tspan class="text" id="t7togd5">
+<tspan font-size="405px">fec</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="14393" y="10504"/>
+<rect fill="black" height="22" width="98" x="15593" y="10504"/>
+<rect fill="black" height="22" width="98" x="16793" y="10504"/>
+<rect fill="black" height="22" width="98" x="17993" y="10504"/>
+<rect fill="black" height="22" width="98" x="19193" y="10504"/>
+</g>
+</g>
+<g class="verse" id="v1ons3pv">
+<g class="syl" id="s1v19j1i">
+<text fill="black" font-size="0px" x="13086" y="11007">
+<tspan class="text" id="t1506vte">
+<tspan font-size="405px">re</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="14293" y="10904"/>
+<rect fill="black" height="22" width="98" x="15493" y="10904"/>
+<rect fill="black" height="22" width="98" x="16693" y="10904"/>
+<rect fill="black" height="22" width="98" x="17893" y="10904"/>
+<rect fill="black" height="22" width="98" x="19093" y="10904"/>
+</g>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-154">
+<g class="notehead">
+<use height="720px" width="720px" x="14419" xlink:href="#E938-ggzmey" y="9575"/>
+</g>
+<g class="stem" id="s1igjpoh">
+<use height="720px" width="720px" x="14510" xlink:href="#E93E-ggzmey" y="9495"/>
+</g>
+</g>
+<g class="ligature" id="m-155">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-156">
+<polygon points="15234,9408 15397,9509 15397,9653 15234,9552"/>
+<rect height="477" rx="6" width="18" x="15234" y="9035"/>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-157">
+<polygon points="15387,9503 15540,9598 15540,9742 15387,9647"/>
+<rect height="54" rx="6" width="18" x="15522" y="9638"/>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="sv71u73">
+<path d="M17117 9395 L20002 9395" stroke="currentColor" stroke-width="13"/>
+<path d="M17117 9575 L20002 9575" stroke="currentColor" stroke-width="13"/>
+<path d="M17117 9755 L20002 9755" stroke="currentColor" stroke-width="13"/>
+<path d="M17117 9935 L20002 9935" stroke="currentColor" stroke-width="13"/>
+<path d="M17117 10115 L20002 10115" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="l1a39408">
+<g class="ligature" id="m-158">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-159">
+<polygon points="17305,9498 17468,9599 17468,9743 17305,9642"/>
+<rect height="477" rx="6" width="18" x="17305" y="9125"/>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-160">
+<polygon points="17458,9593 17611,9688 17611,9832 17458,9737"/>
+<rect height="54" rx="6" width="18" x="17593" y="9728"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-161">
+<g class="notehead">
+<use height="720px" width="720px" x="19188" xlink:href="#E938-ggzmey" y="9845"/>
+</g>
+<g class="stem" id="s1rdt9cr">
+<use height="720px" width="720px" x="19279" xlink:href="#E93E-ggzmey" y="9765"/>
+</g>
+</g>
+</g>
+</g>
+<g class="syl id-s1kdy30m spanning">
+<rect fill="black" height="22" width="98" x="1258" y="10504"/>
+<rect fill="black" height="22" width="98" x="2458" y="10504"/>
+<rect fill="black" height="22" width="98" x="3658" y="10504"/>
+<rect fill="black" height="22" width="98" x="4858" y="10504"/>
+<rect fill="black" height="22" width="98" x="6058" y="10504"/>
+<rect fill="black" height="22" width="98" x="7258" y="10504"/>
+<rect fill="black" height="22" width="98" x="8458" y="10504"/>
+</g>
+</g>
+<g class="system" id="s2qlxt3">
+<g class="staff" id="sxmgw07">
+<path d="M0 11995 L4641 11995" stroke="currentColor" stroke-width="13"/>
+<path d="M0 12175 L4641 12175" stroke="currentColor" stroke-width="13"/>
+<path d="M0 12355 L4641 12355" stroke="currentColor" stroke-width="13"/>
+<path d="M0 12535 L4641 12535" stroke="currentColor" stroke-width="13"/>
+<path d="M0 12715 L4641 12715" stroke="currentColor" stroke-width="13"/>
+<g class="clef" id="c14zjf2w">
+<use height="720px" width="720px" x="90" xlink:href="#E906-ggzmey" y="12715"/>
+</g>
+<g class="keySig" id="k17xbt9"/>
+<g class="layer" id="l1c3uilr">
+<g class="note" id="m-162">
+<g class="notehead">
+<use height="720px" width="720px" x="498" xlink:href="#E938-ggzmey" y="12265"/>
+</g>
+</g>
+<g class="rest" id="m-163">
+<use height="720px" width="720px" x="1643" xlink:href="#E9F5-ggzmey" y="12355"/>
+<g class="ledgerLines"/>
+</g>
+<g class="rest" id="m-164">
+<use height="720px" width="720px" x="2392" xlink:href="#E9F5-ggzmey" y="12355"/>
+<g class="ledgerLines"/>
+</g>
+<g class="note" id="m-165">
+<g class="notehead">
+<use height="720px" width="720px" x="3142" xlink:href="#E938-ggzmey" y="12265"/>
+</g>
+<g class="stem" id="s1eewmhi">
+<use height="720px" width="720px" x="3233" xlink:href="#E93E-ggzmey" y="12185"/>
+</g>
+</g>
+<g class="note" id="m-166">
+<g class="notehead">
+<use height="720px" width="720px" x="3891" xlink:href="#E938-ggzmey" y="12355"/>
+</g>
+<g class="stem" id="sy9z173">
+<use height="720px" width="720px" x="3982" xlink:href="#E93E-ggzmey" y="12275"/>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="s1tfpd1n">
+<path d="M4641 11995 L12406 11995" stroke="currentColor" stroke-width="13"/>
+<path d="M4641 12175 L12406 12175" stroke="currentColor" stroke-width="13"/>
+<path d="M4641 12355 L12406 12355" stroke="currentColor" stroke-width="13"/>
+<path d="M4641 12535 L12406 12535" stroke="currentColor" stroke-width="13"/>
+<path d="M4641 12715 L12406 12715" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="l8cimfj">
+<g class="ligature" id="m-167">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-168">
+<polygon points="4828,12463 4990,12463 4990,12607 4828,12607"/>
+<rect height="522" rx="6" width="18" x="4828" y="12085"/>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-169">
+<polygon points="4972,12373 5134,12373 5134,12517 4972,12517"/>
+<rect height="234" rx="6" width="18" x="4972" y="12373"/>
+<rect height="144" rx="6" width="18" x="5116" y="12373"/>
+</g>
+</g>
+<g class="ligature" id="m-170">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-171">
+<polygon points="6561,12553 6723,12553 6723,12697 6561,12697"/>
+<rect height="522" rx="6" width="18" x="6561" y="12175"/>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-172">
+<polygon points="6705,12463 6867,12463 6867,12607 6705,12607"/>
+<rect height="234" rx="6" width="18" x="6705" y="12463"/>
+<rect height="144" rx="6" width="18" x="6849" y="12463"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-173">
+<g class="notehead">
+<use height="720px" width="720px" x="8294" xlink:href="#E938-ggzmey" y="12715"/>
+</g>
+<g class="accid" id="ao86tcp">
+<use height="720px" width="720px" x="8039" xlink:href="#E9E3-ggzmey" y="12715"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-174">
+<g class="notehead">
+<use height="720px" width="720px" x="9438" xlink:href="#E938-ggzmey" y="12625"/>
+</g>
+<g class="stem" id="s6onld0">
+<use height="720px" width="720px" x="9529" xlink:href="#E93E-ggzmey" y="12545"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-175">
+<g class="notehead">
+<rect fill="black" height="144" width="126" x="10206" y="12463"/>
+<rect fill="black" height="144" width="18" x="10188" y="12463"/>
+<rect fill="black" height="144" width="18" x="10332" y="12463"/>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="s22ipp0">
+<path d="M12406 11995 L14801 11995" stroke="currentColor" stroke-width="13"/>
+<path d="M12406 12175 L14801 12175" stroke="currentColor" stroke-width="13"/>
+<path d="M12406 12355 L14801 12355" stroke="currentColor" stroke-width="13"/>
+<path d="M12406 12535 L14801 12535" stroke="currentColor" stroke-width="13"/>
+<path d="M12406 12715 L14801 12715" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="l1tzveih">
+<g class="note" id="m-176">
+<g class="notehead">
+<use height="720px" width="720px" x="12593" xlink:href="#E938-ggzmey" y="12625"/>
+</g>
+<g class="stem" id="s19l8okd">
+<use height="720px" width="720px" x="12684" xlink:href="#E93E-ggzmey" y="12545"/>
+</g>
+<g class="verse" id="vn4gjuh">
+<g class="syl" id="s1xrycde">
+<text fill="black" font-size="0px" x="12503" y="13207">
+<tspan class="text" id="t1r7im5b">
+<tspan font-size="405px">ti</tspan>
+</tspan>
+</text>
+<rect fill="black" height="22" width="98" x="13764" y="13104"/>
+</g>
+</g>
+</g>
+<g class="note" id="m-803">
+<g class="notehead">
+<use height="720px" width="720px" x="13342" xlink:href="#E938-ggzmey" y="12445"/>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="s1rle9bt">
+<path d="M14801 11995 L17598 11995" stroke="currentColor" stroke-width="13"/>
+<path d="M14801 12175 L17598 12175" stroke="currentColor" stroke-width="13"/>
+<path d="M14801 12355 L17598 12355" stroke="currentColor" stroke-width="13"/>
+<path d="M14801 12535 L17598 12535" stroke="currentColor" stroke-width="13"/>
+<path d="M14801 12715 L17598 12715" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="l1fa2b9e">
+<g class="note" id="m-177">
+<g class="notehead">
+<rect fill="black" height="144" width="126" x="15006" y="12463"/>
+<rect fill="black" height="144" width="18" x="14988" y="12463"/>
+<rect fill="black" height="144" width="18" x="15132" y="12463"/>
+</g>
+<g class="verse" id="vsvb2p2">
+<g class="syl" id="s1k6gtu">
+<text fill="black" font-size="0px" x="14898" y="13207">
+<tspan class="text" id="t1xvxct7">
+<tspan font-size="405px">on;</tspan>
+</tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="barLine" id="b1h50y0z">
+<path d="M17206 11995 L17206 12715" stroke="currentColor" stroke-width="27"/>
+<path d="M17336 11995 L17336 12715" stroke="currentColor" stroke-width="90"/>
+<path d="M17467 11995 L17467 12715" stroke="currentColor" stroke-width="27"/>
+<use height="720px" width="720px" x="17512" xlink:href="#E044-ggzmey" y="12265"/>
+<use height="720px" width="720px" x="17512" xlink:href="#E044-ggzmey" y="12445"/>
+<use height="720px" width="720px" x="17089" xlink:href="#E044-ggzmey" y="12265"/>
+<use height="720px" width="720px" x="17089" xlink:href="#E044-ggzmey" y="12445"/>
+</g>
+</g>
+</g>
+<g class="staff" id="s1dizck">
+<path d="M17598 11995 L20003 11995" stroke="currentColor" stroke-width="13"/>
+<path d="M17598 12175 L20003 12175" stroke="currentColor" stroke-width="13"/>
+<path d="M17598 12355 L20003 12355" stroke="currentColor" stroke-width="13"/>
+<path d="M17598 12535 L20003 12535" stroke="currentColor" stroke-width="13"/>
+<path d="M17598 12715 L20003 12715" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="l1mr9ojy">
+<g class="note" id="m-177">
+<g class="notehead">
+<rect fill="black" height="144" width="126" x="17803" y="12463"/>
+<rect fill="black" height="144" width="18" x="17785" y="12463"/>
+<rect fill="black" height="144" width="18" x="17929" y="12463"/>
+</g>
+<g class="verse" id="v1juhf9s">
+<g class="syl" id="swlx480">
+<text fill="black" font-size="0px" x="17695" y="13607">
+<tspan class="text" id="tywrc5s">
+<tspan font-size="405px">don.</tspan>
+</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g class="syl id-s10io4jz spanning">
+<rect fill="black" height="22" width="98" x="868" y="13104"/>
+<rect fill="black" height="22" width="98" x="2068" y="13104"/>
+<rect fill="black" height="22" width="98" x="3268" y="13104"/>
+<rect fill="black" height="22" width="98" x="4468" y="13104"/>
+<rect fill="black" height="22" width="98" x="5668" y="13104"/>
+<rect fill="black" height="22" width="98" x="6868" y="13104"/>
+<rect fill="black" height="22" width="98" x="8068" y="13104"/>
+<rect fill="black" height="22" width="98" x="9268" y="13104"/>
+<rect fill="black" height="22" width="98" x="10468" y="13104"/>
+<rect fill="black" height="22" width="98" x="11668" y="13104"/>
+</g>
+<g class="syl id-s1v19j1i spanning">
+<rect fill="black" height="22" width="98" x="1064" y="13504"/>
+<rect fill="black" height="22" width="98" x="2264" y="13504"/>
+<rect fill="black" height="22" width="98" x="3464" y="13504"/>
+<rect fill="black" height="22" width="98" x="4664" y="13504"/>
+<rect fill="black" height="22" width="98" x="5864" y="13504"/>
+<rect fill="black" height="22" width="98" x="7064" y="13504"/>
+<rect fill="black" height="22" width="98" x="8264" y="13504"/>
+<rect fill="black" height="22" width="98" x="9464" y="13504"/>
+<rect fill="black" height="22" width="98" x="10664" y="13504"/>
+<rect fill="black" height="22" width="98" x="11864" y="13504"/>
+<rect fill="black" height="22" width="98" x="13064" y="13504"/>
+<rect fill="black" height="22" width="98" x="14264" y="13504"/>
+<rect fill="black" height="22" width="98" x="15464" y="13504"/>
+<rect fill="black" height="22" width="98" x="16664" y="13504"/>
+</g>
+</g>
+<g class="system" id="sfvkwxh">
+<g class="staff" id="s1it81ej">
+<path d="M0 14595 L5338 14595" stroke="currentColor" stroke-width="13"/>
+<path d="M0 14775 L5338 14775" stroke="currentColor" stroke-width="13"/>
+<path d="M0 14955 L5338 14955" stroke="currentColor" stroke-width="13"/>
+<path d="M0 15135 L5338 15135" stroke="currentColor" stroke-width="13"/>
+<path d="M0 15315 L5338 15315" stroke="currentColor" stroke-width="13"/>
+<g class="clef" id="c8tvi6z">
+<use height="720px" width="720px" x="90" xlink:href="#E906-ggzmey" y="15315"/>
+</g>
+<g class="keySig" id="k1yrv13o"/>
+<g class="layer" id="l7iib3t">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-178">
+<g class="notehead">
+<use height="720px" width="720px" x="528" xlink:href="#E938-ggzmey" y="15045"/>
+</g>
+<g class="stem" id="s1n6xwau">
+<use height="720px" width="720px" x="619" xlink:href="#E93E-ggzmey" y="14965"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-179">
+<g class="notehead">
+<use height="720px" width="720px" x="1398" xlink:href="#E938-ggzmey" y="14955"/>
+</g>
+<g class="stem" id="s1rns43i">
+<use height="720px" width="720px" x="1489" xlink:href="#E93E-ggzmey" y="14875"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-180">
+<g class="notehead">
+<use height="720px" width="720px" x="2268" xlink:href="#E938-ggzmey" y="14865"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-181">
+<g class="notehead">
+<use height="720px" width="720px" x="3598" xlink:href="#E938-ggzmey" y="14955"/>
+</g>
+<g class="stem" id="skqp47z">
+<use height="720px" width="720px" x="3689" xlink:href="#E93E-ggzmey" y="14875"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-181">
+<g class="notehead">
+<use height="720px" width="720px" x="4468" xlink:href="#E938-ggzmey" y="15135"/>
+</g>
+<g class="stem" id="sshm4nw">
+<use height="720px" width="720px" x="4559" xlink:href="#E93E-ggzmey" y="15055"/>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="s1pve95q">
+<path d="M5338 14595 L10703 14595" stroke="currentColor" stroke-width="13"/>
+<path d="M5338 14775 L10703 14775" stroke="currentColor" stroke-width="13"/>
+<path d="M5338 14955 L10703 14955" stroke="currentColor" stroke-width="13"/>
+<path d="M5338 15135 L10703 15135" stroke="currentColor" stroke-width="13"/>
+<path d="M5338 15315 L10703 15315" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="layd8zy">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-182">
+<g class="notehead">
+<use height="720px" width="720px" x="5555" xlink:href="#K002" y="15045"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-185">
+<g class="notehead">
+<use height="720px" width="720px" x="6131" xlink:href="#K002" y="14955"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-188">
+<g class="notehead">
+<use height="720px" width="720px" x="6706" xlink:href="#K002" y="14865"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-191">
+<g class="notehead">
+<use height="720px" width="720px" x="7282" xlink:href="#K002" y="14955"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-194">
+<g class="notehead">
+<use height="720px" width="720px" x="7858" xlink:href="#K002" y="15045"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-197">
+<g class="notehead">
+<use height="720px" width="720px" x="8434" xlink:href="#K002" y="14955"/>
+</g>
+</g>
+<g class="ligature" id="m-200">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-201">
+<polygon points="9009,15058 9172,15159 9172,15209 9009,15108"/>
+<polygon points="9009,15202 9172,15303 9172,15253 9009,15152"/>
+<rect height="477" rx="6" width="18" x="9009" y="14685"/>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-202">
+<polygon points="9162,15153 9315,15248 9315,15298 9162,15203"/>
+<polygon points="9162,15297 9315,15392 9315,15342 9162,15247"/>
+<rect height="54" rx="6" width="18" x="9297" y="15288"/>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="s1ue0y6l">
+<path d="M10703 14595 L14673 14595" stroke="currentColor" stroke-width="13"/>
+<path d="M10703 14775 L14673 14775" stroke="currentColor" stroke-width="13"/>
+<path d="M10703 14955 L14673 14955" stroke="currentColor" stroke-width="13"/>
+<path d="M10703 15135 L14673 15135" stroke="currentColor" stroke-width="13"/>
+<path d="M10703 15315 L14673 15315" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="l24oh3l">
+<g class="rest" id="m-203">
+<use height="720px" width="720px" x="10920" xlink:href="#E9F5-ggzmey" y="14955"/>
+<g class="ledgerLines"/>
+</g>
+<g class="ligature" id="m-200">
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-201">
+<polygon points="11790,15243 11952,15243 11952,15387 11790,15387"/>
+<rect height="522" rx="6" width="18" x="11790" y="14865"/>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-202">
+<polygon points="11934,15063 12096,15063 12096,15207 11934,15207"/>
+<rect height="324" rx="6" width="18" x="11934" y="15063"/>
+<rect height="144" rx="6" width="18" x="12078" y="15063"/>
+</g>
+</g>
+<g class="note" color="rgba(252,0,0,1)" fill="rgba(252,0,0,1)" id="m-203">
+<g class="notehead">
+<use height="720px" width="720px" x="13802" xlink:href="#E938-ggzmey" y="15045"/>
+</g>
+<g class="stem" id="s1j0qzxa">
+<use height="720px" width="720px" x="13893" xlink:href="#E93E-ggzmey" y="14965"/>
+</g>
+</g>
+</g>
+</g>
+<g class="staff" id="s11tbu40">
+<path d="M14673 14595 L20002 14595" stroke="currentColor" stroke-width="13"/>
+<path d="M14673 14775 L20002 14775" stroke="currentColor" stroke-width="13"/>
+<path d="M14673 14955 L20002 14955" stroke="currentColor" stroke-width="13"/>
+<path d="M14673 15135 L20002 15135" stroke="currentColor" stroke-width="13"/>
+<path d="M14673 15315 L20002 15315" stroke="currentColor" stroke-width="13"/>
+<g class="layer" id="l1s6jgyn">
+<g class="note" id="m-204">
+<g class="notehead">
+<rect fill="black" height="144" width="126" x="14908" y="14883"/>
+<rect fill="black" height="144" width="18" x="14890" y="14883"/>
+</g>
+<g class="stem">
+<rect fill="black" height="522" width="18" x="15034" y="14883"/>
+</g>
+</g>
+<g class="barLine" id="bhhzs37">
+<path d="M19867 14595 L19867 15315" stroke="currentColor" stroke-width="27"/>
+<path d="M19966 14595 L19966 15315" stroke="currentColor" stroke-width="27"/>
+</g>
+</g>
+</g>
+<g class="systemMilestoneEnd m-41" id="ssjshvz"/>
+</g>
+<g class="pageMilestoneEnd m-28" id="pfowupa"/>
+<g class="pageMilestoneEnd m-27" id="p1a33jb4"/>
+<g class="pgHead autogenerated" id="p1sptgld">
+<text fill="black" font-size="0px">
+<tspan class="rend" id="r1j02h8n" text-anchor="middle" x="10000" y="415">
+<title class="labelAttr">title</title>
+<tspan class="rend" id="r1bzexid">
+<tspan class="text" id="tsvif0z">
+<tspan font-size="607px">En attendant esperance</tspan>
+</tspan>
+</tspan>
+<tspan class="lb" id="lcaz4e3"/>
+<tspan class="rend" id="rmyp6ly">
+<tspan class="text" id="t151qtjz" x="10000" y="805">
+<tspan font-size="324px">Ballade</tspan>
+</tspan>
+</tspan>
+</tspan>
+</text>
+</g>
+<g class="pgFoot autogenerated" id="phwnk26">
+<g class="fig" id="fmhmlsc">
+<g class="svg" transform="translate(7750, 28099) scale(10.000000, 10.000000)">
+<g>
+<path d="M 17.11278,49.26451 V 10.367554 h 12.696511 c 3.288815,7.336676 6.71267,14.610456 10.127281,21.888976 3.419998,-7.484684 6.255515,-14.204887 9.58887,-21.909915 2.436207,0.103726 4.316952,0.08453 6.484294,-0.05808 V 49.264423 H 50.274275 C 50.145222,38.35639 50.016136,27.448368 49.887066,16.540329 45.003488,27.315459 39.967448,38.433564 35.083854,49.208695 34.678996,49.343717 34.426583,49.135619 34.021726,49.270644 29.46588,39.330716 24.910049,29.390805 20.354201,19.450876 20.224341,29.388756 20.09461,39.326619 19.964815,49.264497 H 17.11278 Z M 36.754144,39.324695 C 32.721221,30.512695 28.6883,21.700679 24.655394,12.888662 22.530527,12.750737 22.656775,12.71031 20.714356,12.813974 v 0.966497 c 4.612938,9.99784 9.609439,20.748709 13.87298,30.081745 0.722248,-1.512523 1.444528,-3.025014 2.166808,-4.537521 z m 25.738417,9.939815 c 0,-12.965651 0,-25.931305 0,-38.896956 10.084388,0 20.168791,0 30.253178,0 0,0.960416 0,1.920849 0,2.881265 -6.482825,0 -12.965652,0 -19.448478,0 0,4.802097 0,9.604178 0,14.406277 5.52241,0 11.044819,0 16.567229,0 0,0.960415 0,1.920832 0,2.881248 -5.52241,0 -11.044819,0 -16.567229,0 0,5.282306 0,10.564611 0,15.846917 6.963035,0 13.926068,0 20.889103,0 0,0.960416 0,1.920832 0,2.881249 -10.564597,0 -21.129207,0 -31.693803,0 z m 4.321874,-2.160937 c 0,-11.765131 0,-23.530263 0,-35.295394 -0.720312,0 -1.440625,0 -2.160937,0 0,11.765131 0,23.530263 0,35.295394 0.720312,0 1.440625,0 2.160937,0 z m 32.41413,2.160937 c 0,-12.965651 0,-25.931305 0,-38.896956 2.401045,0 4.802095,0 7.203135,0 0,12.965651 0,25.931305 0,38.896956 -2.40104,0 -4.80209,0 -7.203135,0 z m 2.881265,-2.160937 c 0,-11.765131 0,-23.530263 0,-35.295394 -0.72031,0 -1.44064,0 -2.160953,0 0,11.765131 0,23.530263 0,35.295394 0.720313,0 1.440643,0 2.160953,0 z" fill="#00000"/>
+<path d="m 346.3,6.7 c -3.1,0.5 -4.9,4.4 -2.7,6.8 1.2,1.4 2.7,2.4 4.1,3.5 -2.4,5.3 -7.7,8.3 -11.9,12.1 -3.7,2.8 -7,6.2 -9.7,9.9 -2.2,-0.8 -0.3,-6.8 -0.6,-9.5 0.1,-3.1 0.7,-6.4 2.9,-8.7 1.3,-1.9 3,-3.5 4.5,-5.2 1.2,-3.4 -3.2,-4.9 -5.8,-4.6 -7.3,-0.5 -14.6,2 -20,6.8 -5,4.6 -10,10.1 -11.5,17 -0.9,3.5 -0.2,7.5 2.8,9.9 2.5,2.8 7.4,2.9 9.8,-0.2 1.7,-2.3 3.2,-4.8 3.8,-7.6 -0.1,-2.6 -4.4,-2.3 -4.3,0.2 1.2,2.4 -0.9,4.7 -2.7,6.2 -1.7,0.9 -4.7,0.7 -4.8,-1.7 -1,-5.8 2.1,-11.3 5.2,-16.1 4,-5.8 9.8,-11.2 17.2,-11.8 1.6,0 8.1,-1.2 6.8,1.4 -2.8,2.8 -5.6,6.1 -6,10.3 -1.6,7.7 0.1,15.7 -2.3,23.2 -1.1,3.9 2,2.6 2.5,0.2 3.3,-7.4 8.9,-13.4 15.1,-18.5 4.2,-3.9 9.5,-7.1 11.9,-12.6 1.3,-3.6 1.2,-9 -2.7,-10.9 -0.6,-0.2 -1.2,-0.3 -1.8,-0.3 z m 66,14.5 c -2,0.8 -1.8,4.9 0.8,4.4 3.4,0.4 2.9,-6.2 -0.8,-4.4 z m 0.6,7.3 c -1.3,0.5 -7.6,0.5 -5.4,2.2 4,-0.3 0.7,4.5 0.6,6.7 -0.4,2.9 -2.4,5.9 -1.2,8.8 2.7,1.7 5.6,-0.8 6.8,-3.2 1.6,-1.4 -0.5,-3 -1.2,-0.9 -0.4,0.8 -2.4,3.5 -2.6,1.8 1.1,-5 2.7,-9.9 3.9,-14.9 l -0.1,-0.5 h -0.9 z m -65.1,0.2 c -6.5,1.6 -10.5,9.5 -8.2,15.7 2.1,3.4 7.4,2.9 10.1,0.4 2,-0.2 3.6,-5.3 1,-3.4 -1.4,2 -4,4.2 -6.5,2.8 -2.2,-1.9 -1.9,-5.7 1.7,-5.3 3.1,-0.9 6.9,-2.1 8.1,-5.5 0.9,-2.7 -1.6,-5.2 -4.3,-4.8 h -1.1 -0.7 z m 13.6,0 c -2.2,0 -8.5,1.8 -2.9,2.3 0.9,1.9 -1,4.9 -1.1,7.2 -0.5,2.9 -1.4,5.7 -1.7,8.7 3.7,0.7 3.8,-2.6 4.4,-5.3 0.9,-3.3 1.6,-7 4.1,-9.5 2.4,1.6 6.8,-0.7 3.7,-3.4 -2.9,-0.5 -4.8,2.4 -6.2,4.3 0,-1.2 2.4,-5 -0.2,-4.3 z m 15.8,0 c -6.4,1.3 -9.6,9.1 -7.7,14.9 1.9,4 7.7,3.9 11,1.7 4.1,-3 6,-8.9 4.4,-13.7 -1.3,-3 -4.8,-3.2 -7.6,-3 z m 17,0 c -2.3,0 -8.8,1.9 -3,2.4 0.4,2.5 -1,5.7 -1.4,8.4 -0.7,2.4 -1.8,7.5 2.1,7.2 3.8,-0.1 6.5,-3.5 8.5,-6.3 2,-3.2 4.5,-7 3.3,-10.9 -3.7,-3 -3.6,2.6 -3.1,5.1 -0.7,3.8 -2.7,7.9 -6.2,9.8 -3.6,0.6 -1,-4.3 -0.8,-6.1 0.6,-3.2 1.6,-6.3 1.9,-9.5 -0.4,0 -0.8,0 -1.1,0 z m 30.6,0 c -6.3,1.2 -9.5,8.9 -7.8,14.7 1.5,4 7.2,4.2 10.5,2.4 4.6,-2.8 6.6,-9.3 4.8,-14.3 -1.4,-2.8 -4.8,-3 -7.5,-2.8 z m -75.4,1.7 c 2.1,1.5 0.2,4.7 -1.6,5.7 -1.1,0.4 -5.5,3.4 -4.6,0.7 0.8,-2.7 2.2,-6.2 5.3,-6.6 l 0.9,0.1 z m 30.8,0 c 2.6,1.5 1.3,5.2 0.8,7.6 -0.8,2.7 -1.9,5.9 -4.7,7.1 -5.1,0.8 -4,-5.8 -2.8,-8.8 1,-2.8 3,-6.8 6.7,-5.8 z m 47.1,-0.1 c 2.9,0.7 2,4.7 1.5,6.8 -0.7,3 -1.8,6.7 -5,8 -4.7,0.8 -4,-5.1 -3,-7.9 0.9,-3 2.7,-7.3 6.5,-6.8 z m -88.1,5.9 c -0.3,1.3 0.9,-0.6 0,0 z m -1.1,2.4 c -0.2,0.5 0.5,-0.1 0,0 z m -1.3,4.5 c -0.3,1.3 0.8,-0.2 0,0 z" fill="#00000"/>
+<text fill="black" style="font-style:italic;font-weight:normal;font-size:30px;line-height:125%;font-family:Times;text-anchor:middle" x="201" xml:space="preserve" y="41">engraved with</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
+</svg>
