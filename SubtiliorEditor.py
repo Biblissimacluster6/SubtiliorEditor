@@ -118,11 +118,12 @@ if caudata_2:
          cauda2b.append(note_id)
 
 l_minimae=[]
-for minima in minimae:
-   coloured_value = minima.get("colored")
-   note_id = minima.get("{http://www.w3.org/XML/1998/namespace}id")
-   if coloured_value == "red and hollowed" or coloured_value == "hollowed":
-        l_minimae.append(note_id)
+if minimae:
+   for minima in minimae:
+       coloured_value = minima.get("colored")
+       note_id = minima.get("{http://www.w3.org/XML/1998/namespace}id")
+       if coloured_value == "red and hollowed" or coloured_value == "hollowed":
+           l_minimae.append(note_id)
 
 with open(veroviosvg, "r") as svg_file:
     svg_content = svg_file.read()
@@ -207,3 +208,5 @@ if defs_element:
 
 with open("subtilior.svg", "w") as output_file:
     output_file.write(str(soup))
+
+print("subtilior.svg has been generated")    
