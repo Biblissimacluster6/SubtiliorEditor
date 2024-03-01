@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Biblissimacluster6/SubtiliorEditor/blob/main/img/Logo%20Musica2.jpg" width="200"><img src="https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/biblissima-baseline-sombre-france2030.png" width="300"><img src="https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/Icon.jpg" width="300">
 
-SubtiliorEditor is a Python program that enhances MEI encoding and Verovio output for the atypical notations characteristic of ars subtilior (late 14th century). It is the result of a collaboration between Biblissima+ Cluster 6 and the working group MEI (WG1) of the Musica2 consortium (Huma-Num). 
+"Ce travail a bénéficié́ d'une aide de l’État gérée par l'Agence Nationale de la Recherche au titre du programme d’Investissements d’avenir portant la référence ANR-21-ESRE-0005 (Biblissima+)". SubtiliorEditor est le fruit d'une collaboration entre le Cluster6 Biblissima+ et le consortium Huma-Num Musica2 dont le GT1-MEI entend développer des solutions techniques afin d'améliorer l'usage de la Music Encoding Initiative. 
 
 ![code](https://github.com/Biblissimacluster6/SubtiliorEditor/blob/main/img/Decorum.png)
 
@@ -10,7 +10,7 @@ SubtiliorEditor is a Python program that enhances MEI encoding and Verovio outpu
 
 ### What exactly does SubtiliorEditor do?
 
-SubtiliorEditor is a Python program for improving the encoding (MEI) and visualisation (SVG) of certain atypical musical notations encountered during the 14th century. While most of the figures concerned are borrowed from ars subtilior sources (such as Modena A), SubtiliorEditor can also provide practical solutions for encoding early pieces with dragmae or semibreves caudatae (also called semibrevis maior). 
+SubtiliorEditor is a Python program for improving the encoding (MEI) and visualisation (SVG) of certain atypical musical notations encountered during the 14th century.  While most of the figures concerned are borrowed from ars subtilior sources (such as Modena A), SubtiliorEditor can also provide practical solutions for encoding early pieces with dragmae or semibreves caudatae (also called semibrevis maior). 
 
 ### How do I use it?
 
