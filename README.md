@@ -1,8 +1,6 @@
 # SubtiliorEditor
 
-<img src="https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/biblissima-baseline-sombre-france2030.png" width="400"><img src="https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/Icon.jpg" width="400">
-
-  <img src="https://github.com/Biblissimacluster6/SubtiliorEditor/blob/main/img/Logo%20Musica2.jpg" width="200">
+<img src="https://github.com/Biblissimacluster6/SubtiliorEditor/blob/main/img/Logo%20Musica2.jpg" width="200"><img src="https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/biblissima-baseline-sombre-france2030.png" width="400"><img src="https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/Icon.jpg" width="400">
 
 SubtiliorEditor is a Python program that enhances MEI encoding and Verovio output for the atypical notations characteristic of ars subtilior (late 14th century). It is the result of a collaboration between Biblissima+ Cluster 6 and the working group MEI (WG1) of the Musica2 consortium (Huma-Num). 
 
