@@ -46,10 +46,10 @@
 								<note xml:id="m-51" dur="minima" oct="4" pname="f" dur.quality="altera" num="1" numbase="2"/>
 								<barLine form="invis"/>
 								<note xml:id="m-52" dur="semibrevis" oct="4" pname="e" dur.quality="imperfecta" colored="red"/>
-								<note xml:id="m-53" dur="caudata 1" oct="4" pname="d" num="5" numbase="1" colored="hollowed" stem.dir="up"/>
-								<note xml:id="m-56" dur="caudata 1" oct="4" pname="e" num="5" numbase="1" colored="hollowed" stem.dir="up"/>
-								<note xml:id="m-59" dur="caudata 1" oct="4" pname="f" num="5" numbase="1" colored="hollowed" stem.dir="up"/>
-								<note xml:id="m-62" dur="caudata 2" oct="4" pname="d" num="5" numbase="2" stem.dir="down" colored="red and hollowed"/>
+								<note xml:id="m-53" dur="caudata 1" oct="4" pname="d" num="5" numbase="1" colored="hollowed"/>
+								<note xml:id="m-56" dur="caudata 1" oct="4" pname="e" num="5" numbase="1" colored="hollowed"/>
+								<note xml:id="m-59" dur="caudata 1" oct="4" pname="f" num="5" numbase="1" colored="hollowed"/>
+								<note xml:id="m-62" dur="caudata 2" oct="4" pname="d" num="5" numbase="2" colored="red and hollowed"/>
 								<barLine form="invis"/>
 								<rest xml:id="m-65" dur="minima"/>
 								<ligature xml:id="m-66" form="recta">
