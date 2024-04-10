@@ -16,7 +16,7 @@ SubtiliorEditor is a Python program for improving the encoding (MEI) and visuali
 
 SubtiliorEditor is both a vocabulary and a tool. It assists the encoder in a number of ways. It relieves the encoder of the perilous MEI encoding of the "caudatae" - some forms of which are illustrated in the table below. While MEI allows the shape of each note to be encoded precisely (via the _stem_ element), this is done at the cost of a fairly long encoding process. With SubtiliorEditor, all you have to do is specify the values shown in the reference table in @dur, making sure of course that you also enter the duration and pitch of the note, or any other relevant information. 
 
-![code](https://github.com/Biblissimacluster6/SubtiliorEditor/blob/main/img/subtilior%20editor%20table.jpg)
+![code](https://github.com/Biblissimacluster6/SubtiliorEditor/blob/main/img/subtilior%20editor%20table.jpeg)
 
 In addition to these new values for @dur, three other solutions are proposed for @colored, namely 'hollowed', 'red' or 'red and hollowed'. As a result, the value of @colored is no longer Boolean, contrary to the official MEI schema. Once the MEI file has been encoded according to these conventions, simply load it into SubtiliorEditor using the command line below in your terminal. To do this, you need to clone this directory on your machine and ensure that the following Python modules are installed in the directory or environment you are using: argparse, xml.etree.ElementTree, verovio and bs4.
 
